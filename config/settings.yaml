@@ -41,3 +41,6 @@ reviews:
   output_path: "data/raw/reviews_sample.parquet"
   min_word_count: 6
   output_path_clean: "data/processed/reviews_clean.parquet"
+
+aggregates:
+  output_path: "data/aggregates/product_aggregates.parquet"
