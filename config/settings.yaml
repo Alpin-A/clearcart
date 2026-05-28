@@ -1,0 +1,33 @@
+ingestion:
+  hf_dataset_name: "McAuley-Lab/Amazon-Reviews-2023"
+  hf_config_name: "raw_meta_Electronics"
+  hf_split: "full"
+
+  target_product_count: 500
+  log_every_n_examined: 10000
+  min_review_count: 5
+
+  output_path: "data/raw/products_sample.parquet"
+
+  keep_fields:
+    - "parent_asin"
+    - "title"
+    - "description"
+    - "features"
+    - "price"
+    - "average_rating"
+    - "rating_number"
+    - "store"
+    - "categories"
+    - "main_category"
+
+  audio_categories:
+    - "Earbud Headphones"
+    - "Over-Ear Headphones"
+    - "On-Ear Headphones"
+    - "Headphones & Earbuds"
+    - "Headsets"
+    - "Headsets & Microphones"
+    - "Computer Headsets"
+    - "Bluetooth Headsets"
+    - "Car Headphones"
