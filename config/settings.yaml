@@ -31,3 +31,11 @@ ingestion:
     - "Computer Headsets"
     - "Bluetooth Headsets"
     - "Car Headphones"
+
+reviews:
+  target_review_count: 75000
+  max_records_to_examine: 12000000
+  max_reviews_per_product: 100
+  min_review_length: 15
+  log_every_n_examined: 500000
+  output_path: "data/raw/reviews_sample.parquet"
