@@ -15,12 +15,14 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 import yaml
 from datasets import load_dataset
+from dotenv import load_dotenv
 
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s  %(levelname)-8s  %(message)s",
     datefmt="%H:%M:%S",
 )
+load_dotenv()
 log = logging.getLogger(__name__)
 
 

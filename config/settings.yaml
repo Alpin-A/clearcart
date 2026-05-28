@@ -3,7 +3,7 @@ ingestion:
   hf_config_name: "raw_meta_Electronics"
   hf_split: "full"
 
-  target_product_count: 500
+  target_product_count: 5000
   log_every_n_examined: 10000
   min_review_count: 5
 
