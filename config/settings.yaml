@@ -39,3 +39,5 @@ reviews:
   min_review_length: 15
   log_every_n_examined: 500000
   output_path: "data/raw/reviews_sample.parquet"
+  min_word_count: 6
+  output_path_clean: "data/processed/reviews_clean.parquet"
