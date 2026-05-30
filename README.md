@@ -6,6 +6,8 @@ review evidence, price signals, and learned ranking.
 
 A hybrid search and learning-to-rank engine built over Amazon review data.
 
+> 🔄 Currently under active development — M3 in progress
+
 ---
 
 ## The Problem
