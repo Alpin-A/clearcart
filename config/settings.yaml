@@ -44,3 +44,6 @@ reviews:
 
 aggregates:
   output_path: "data/aggregates/product_aggregates.parquet"
+
+search:
+  bm25_index_path: "indexes/bm25_index.pkl"
