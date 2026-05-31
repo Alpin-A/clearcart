@@ -105,8 +105,8 @@ Planned metrics across BM25 / semantic / hybrid / LTR variants:
 |---|---|
 | M1 — Data ingestion foundation      | ✅ Complete |
 | M2 — Cleaning + review aggregation  | ✅ Complete |
-| M3 — BM25 + semantic search         | 🔄 In progress |
-| M4 — Ranking + API | ⬜ Planned |
+| M3 — BM25 + semantic search         | ✅ Complete |
+| M4 — Ranking + API                  | 🔄 In progress |
 | M5 — Frontend + evaluation | ⬜ Planned |
 
 ---
