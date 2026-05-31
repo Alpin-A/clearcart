@@ -47,3 +47,7 @@ aggregates:
 
 search:
   bm25_index_path: "indexes/bm25_index.pkl"
+  embedding_model: "all-MiniLM-L6-v2"
+  embeddings_path: "indexes/product_embeddings.npy"
+  faiss_index_path: "indexes/faiss_index.bin"
+  embedding_ids_path: "indexes/embedding_ids.pkl"
