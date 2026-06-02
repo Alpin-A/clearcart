@@ -51,3 +51,9 @@ search:
   embeddings_path: "indexes/product_embeddings.npy"
   faiss_index_path: "indexes/faiss_index.bin"
   embedding_ids_path: "indexes/embedding_ids.pkl"
+
+backend:
+  host: "0.0.0.0"
+  port: 8000
+  top_k_default: 10
+  top_k_max: 20
