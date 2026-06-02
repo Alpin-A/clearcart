@@ -46,7 +46,6 @@ def is_audio_product(record: dict, audio_categories: set[str]) -> bool:
 
 def extract_fields(record: dict, keep_fields: list[str]) -> dict:
     """
-    Pull only declared fields from a raw record.
     Missing fields become None rather than raising KeyError.
     No type coercion here — that belongs in a cleaning step.
     """
@@ -54,10 +53,7 @@ def extract_fields(record: dict, keep_fields: list[str]) -> dict:
 
 
 def stream_audio_products(cfg: dict) -> tuple[list[dict], int]:
-    """
-    Stream Electronics metadata and collect audio products up to target count.
-    Returns collected records and total number of records examined.
-    """
+    """Returns collected records and total number of records examined."""
     target = cfg["target_product_count"]
     keep_fields = cfg["keep_fields"]
     log_every = cfg["log_every_n_examined"]

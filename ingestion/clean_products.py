@@ -48,10 +48,7 @@ def parse_price(raw: str | None) -> float | None:
 
 
 def flatten_list_field(value) -> str:
-    """
-    Join a list-of-strings field into a single string.
-    Returns empty string for None or unexpected types.
-    """
+    """Returns empty string for None or unexpected types."""
     if value is None:
         return ""
     if isinstance(value, list):
@@ -72,10 +69,6 @@ def safe_str(value) -> str | None:
 
 
 def clean(df_raw: pd.DataFrame) -> list[dict]:
-    """
-    Apply cleaning rules to raw records.
-    Returns a list of cleaned dicts — one per kept product.
-    """
     kept = []
     dropped = {"missing_asin": 0, "missing_title": 0, "short_title": 0}
 

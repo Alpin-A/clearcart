@@ -126,6 +126,9 @@ def agg_product(group: pd.DataFrame) -> pd.Series:
     star_counts = group["rating"].round(0).clip(1, 5).astype(int).value_counts()
 
     complaint_rate    = float(negative_count / review_count)
+    # Stored for offline analysis. The ranking pipeline recomputes this signal
+    # at query time via rating_confidence_score() in search/rank.py, which uses
+    # a different normalizer — so this column is not read during search.
     rating_confidence = float(
         np.clip(avg_rating * np.log(review_count + 1) / np.log(500), 0.0, 1.0)
     )
@@ -221,6 +224,7 @@ def main() -> None:
             agg_product, include_groups=False
         )
     except TypeError:
+        log.warning("include_groups not supported by this pandas version — retrying without it")
         agg_df = reviews.groupby("parent_asin", sort=False).apply(agg_product)
 
     agg_df = agg_df.reset_index()
