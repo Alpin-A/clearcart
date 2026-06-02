@@ -22,6 +22,7 @@ export interface ProductDetail extends SearchResult {
   features_text: string;
   price_fit: number | null;
   rating_confidence: number | null;
+  main_category?: string;
 }
 
 export async function searchProducts(
