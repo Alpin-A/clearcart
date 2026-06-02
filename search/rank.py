@@ -17,7 +17,11 @@ def price_fit_score(price: float | None, budget: float | None) -> float:
 def rating_confidence_score(avg_rating: float | None, review_count: int) -> float:
     if avg_rating is None or review_count == 0:
         return 0.0
-    return min(avg_rating * math.log(review_count + 1) / math.log(500), 1.0)
+    # Normalize rating to 0-1 first (maps 1-5 star range to 0-1)
+    rating_norm = (avg_rating - 1.0) / 4.0
+    # Weight by log review count normalized to our 0-100 review cap
+    count_weight = math.log(review_count + 1) / math.log(101)
+    return round(min(rating_norm * count_weight, 1.0), 4)
 
 
 def compute_fit_score(
