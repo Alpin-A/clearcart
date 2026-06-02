@@ -29,3 +29,6 @@ indexes/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Eval outputs (generated artifacts, not source)
+eval/llm_labels.json

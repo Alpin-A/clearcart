@@ -118,6 +118,12 @@ class BM25Index:
 
     @classmethod
     def load(cls, path: Path) -> "BM25Index":
+        import sys
+        # If the index was built by running this file directly, pickle stored
+        # the class as __main__.BM25Index. Inject cls so it resolves.
+        main = sys.modules.get("__main__")
+        if main and not hasattr(main, "BM25Index"):
+            main.BM25Index = cls
         with open(path, "rb") as f:
             index = pickle.load(f)
         log.info("Loaded BM25 index from %s (%d products)", path, len(index.product_ids))
