@@ -1,0 +1,2964 @@
+{
+  "queries": [
+    {
+      "id": 1,
+      "tier": 1,
+      "query": "wireless earbuds under $50",
+      "latency_ms": 163.9,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B08R1LGZYQ",
+          "title": "Wireless Earbuds, Bluetooth 5.1 Earbuds Hi-Fi Stereo Headphones 30H Playtime True Wireless Earbuds IPX6 Waterproof Earphones in-Ear Headphones with Mic and Type C for Working/Travel/Gym",
+          "rrf_score": 0.029199,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B09W5DX5JH",
+          "title": "KOSETON E9 True Wireless Earbuds, Baby Blue \u2013 Wireless in-Ear Headphones for Running and Sport \u2013 Bluetooth Earbuds with a Comfortable, Secure Fit, 30 Hour Battery, Great Sound",
+          "rrf_score": 0.025062,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B09KS21PJK",
+          "title": "Wireless Bluetooth Earbuds Cartoon Earphones IPX5 Waterproof Headphones with Cartoon Xmas Red Cat Headset with Charging Case Built-in Mic for Boys Girls School Students",
+          "rrf_score": 0.023736,
+          "relevance": 1
+        },
+        {
+          "rank": 4,
+          "asin": "B08SVTP2YD",
+          "title": "Earbuds True Wireless Bluetooth 5.0 Headphones with Touch Control Noise Cancelling IPX8 Waterproof and Built in Microphone Wireless in Ear Stereo Earphones for Sports",
+          "rrf_score": 0.022862,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B07KLLMGSB",
+          "title": "SoundPEATS True Wireless Bluetooth Earbuds in-Ear Stereo Bluetooth Headphones Wireless Earphones (Bluetooth 5.0, Built-in Mic, Stereo Calls, Total 15 Hours Playtime)",
+          "rrf_score": 0.022465,
+          "relevance": 1
+        },
+        {
+          "rank": 6,
+          "asin": "B07W975JVT",
+          "title": "Wireless Earbuds,Bluetooth Headphones Mini in-Ear Headsets Sports Earphone with True Wireless Earbuds and Built-in Charging case for Airpods Android/iPhone (White)",
+          "rrf_score": 0.021954,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B08WKMVP4Q",
+          "title": "Symphonized SNRGY True Wireless Earbuds \u2013 Ear Buds Wireless, Bluetooth Earbuds with Microphone, Earbud in-Ear Headphones, Earbuds Wireless Bluetooth Noise Isolating, Travel & Graduation Gift",
+          "rrf_score": 0.021355,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B0BG6QT53R",
+          "title": "welodorir Wireless Earbuds,True Bluetooth 5.1 Headphones Built-in Mic Headphones in-Ear Stereo Earphones Noise Cancelling Waterproof Earbuds Touch Control with Wireless Charging Case (Cool Black)",
+          "rrf_score": 0.018961,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B095RK2JRC",
+          "title": "Mix Hero Bluetooth Headphones V5.3 Wireless Earbuds 50Hrs Battery Life with Wireless Charging Case &",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 10,
+          "asin": "B07J9RXPY8",
+          "title": "100x Multipack of Colorful in-Ear Earbuds | Bulk Earbuds JustJamz Marbles, Wholesale Colorful Earphones, Disposable Earbuds, Headphones in Bulk, Jack Headphones, for Kids & Adults, Assorted Colors",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 11,
+          "asin": "B084VQHZMT",
+          "title": "Wireless Earbuds with Charging Case,Bluetooth Earbuds with Mic for Running,Wireless Earphones Bluetooth Earphones with Microphone,Mini Sports Earbuds Sweatproof Compatible iOS Android Smartphone",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B00HXTHFW2",
+          "title": "Panasonic RP-HJE120 ErgoFit In-Ear Headphones Stereo Earbuds (2-Pack, Silver)",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 13,
+          "asin": "B0BKQ5JBBK",
+          "title": "Gunagaty Wireless Earbuds with Microphone, Bluetooth Earbuds with Microphone",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 14,
+          "asin": "B0BLW8GTZ8",
+          "title": "GOALSEN X7 Single Bluetooth Wireless Earbud Mini Invisible in-Ear Super Long Battery Life Headphone -Beige",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 15,
+          "asin": "B097XKF62T",
+          "title": "GIEC Wireless Earbuds Mini Bluetooth Earbuds with Microphone in Ear Wireless Headphones Earbuds Small Wireless Earbuds for Android & iOS Wireless Earbuds for Small Ears Sweatproof Earbuds for Workout",
+          "rrf_score": 0.015873,
+          "relevance": 1
+        },
+        {
+          "rank": 16,
+          "asin": "B07JVQ522F",
+          "title": "Bulk Earbuds 50 Pack | Basic Earbuds, Dot Headphones, Black in-Ear Earbuds, Disposable Headphones, 3.5 MM Audio Jack Stereo Earphones for Schools, Kids, Classrooms & Libraries",
+          "rrf_score": 0.015873,
+          "relevance": 0
+        },
+        {
+          "rank": 17,
+          "asin": "B0BC82D47P",
+          "title": "BLXBUDS G2 Wireless Earbuds - Wireless Bluetooth Headphones with Charging Case | TWS Dual-Stereo Earphones | Bluetooth Earbuds with Microphone for iPhone and Android | Up to 6 Hours Battery Life",
+          "rrf_score": 0.015625,
+          "relevance": 1
+        },
+        {
+          "rank": 18,
+          "asin": "B0B3QWTT2L",
+          "title": "Wireless Earbuds Bluetooth Headphones 60Hrs Playback Clear Call Wireless Charging Case with LED Power Display Built-in Mic Stereo Headset Sweatproof occiam Waterproof Earphones for Workout White",
+          "rrf_score": 0.015625,
+          "relevance": 2
+        },
+        {
+          "rank": 19,
+          "asin": "B0BLYTNW2G",
+          "title": "ENOMIR Wireless Earbuds for iPhone and Android Bluetooth Earbuds LED Power Display Earbuds Wireless Bluetooth 5.1 Headphones,Wireless Bluetooth Earbuds 50H Use Time,IPX5 on-Ear Earbuds with 2Mic,Blue",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B07TTL3HHX",
+          "title": "Wired Bass Earbuds Sport in-Ear Headphone Wired with Micro Phone",
+          "rrf_score": 0.015385,
+          "relevance": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tier": 1,
+      "query": "over ear headphones",
+      "latency_ms": 353.2,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B00XM2LZDY",
+          "title": "Yurbuds (CE Focus 100 in-Ear Headphones",
+          "rrf_score": 0.029274,
+          "relevance": 0
+        },
+        {
+          "rank": 2,
+          "asin": "B08YP4H8HS",
+          "title": "Sakar LOL Surprise Volume Limiting Headphones",
+          "rrf_score": 0.028283,
+          "relevance": 0
+        },
+        {
+          "rank": 3,
+          "asin": "B075VJ8JXF",
+          "title": "Hatchimals Kids Safe Over The Ear Headphones HP2-13706 | Kids Headphones, Volume Limiter for Developing Ears, 3.5MM Stereo Jack, Recommended for Ages 3-9, by Sakar",
+          "rrf_score": 0.026494,
+          "relevance": 1
+        },
+        {
+          "rank": 4,
+          "asin": "B09414PJ6Q",
+          "title": "Bluetooth Headphones, PowerLocus Bluetooth Headphones Over-Ear, Passive Noise Cancelling Headphone with Microphone, 70Hrs Playtime, Foldable Wireless Headphones,Hi-Fi Deep Bass for Work,Home Office,PC",
+          "rrf_score": 0.026438,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B09WKK5C5B",
+          "title": "LOBKIN Over Ear Bluetooth Headphones Stereo Wireless Headphones with Built-in Mic Soft Memory-Protein Earmuffs for PC Phone TV (Light Blue)",
+          "rrf_score": 0.023141,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B015V188KQ",
+          "title": "Over the Ear Kids Safe Headphones (Spongebob)",
+          "rrf_score": 0.019513,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B08DFNVNG9",
+          "title": "gozanga 2 Pack Wired Earbuds - Corded Earphones with Microphone",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 8,
+          "asin": "B09NPLXG3W",
+          "title": "Kids Headphones, Wired Stereo Kids Headphones with Microphone, 85/94dB Volume Limit, Audio Sharing 3.5mm Headphone with Enlarged Earcups, Foldable Over-Ear Headset for Study, Travel, School(Blue)",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 9,
+          "asin": "B0BVRKXJ1C",
+          "title": "EAORUL Bluetooth Headphones Over Ear with Microphone,Wireless Headphones, Deep Bass, Fast Charging, Foldable Headphones for Travel, Home, Office",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B000ITLFXO",
+          "title": "iLuv I201WHT Lightweight Ear Clip Headphones (White)",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 11,
+          "asin": "B09NXW9RZS",
+          "title": "Bluetooth Headphones for Kids, LED Cat Ear Wireless Foldable Headphones for Kids Teens Adults, Over Ear Headset with Microphone for Girls on School/Travel (White Pink)",
+          "rrf_score": 0.015873,
+          "relevance": 1
+        },
+        {
+          "rank": 12,
+          "asin": "B09HSL3QRG",
+          "title": "OYEALEX Active Noise Cancelling Over Ear Headphone Bluetooth Wireless Headphones with Microphone Deep Bass Foldable Comfortable Headphones for Online Class, Home Office, PC/Cell Phones/Game Orange",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B09P14M6SR",
+          "title": "Wireless Earbuds,Bluetooth Headphones Neckband,in-Ear Extra Bass Headset/with mic for Phone Call,5 Hours of Listening Time for Running Workout Gym Driving Cycling Earpiece,for Android/iPhone",
+          "rrf_score": 0.015625,
+          "relevance": 0
+        },
+        {
+          "rank": 14,
+          "asin": "B09F9PNB77",
+          "title": "EXMAX H5 Bluetooth Headphones Over Ear Hi-Fi Stereo Wireless & Wired Over-Ear Headphones Headset + Microphone Foldable Comfortable Earmuffs Earpads 60 Hours Playtime for Online Class PC Cellphones TV",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B0C6QK3VKY",
+          "title": "Wireless Ear Clip Bone Conduction Headphones Headset Clip On Open Ear Earbuds Bone Conduction Earbuds Head Set Workout Cycling Running Work Headphones Bone Conducting Induction Earphones",
+          "rrf_score": 0.015152,
+          "relevance": 0
+        },
+        {
+          "rank": 16,
+          "asin": "B00Q3OH45G",
+          "title": "AmazonBasics Premium Over-Ear Headphones",
+          "rrf_score": 0.015152,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B0BTRXVLQV",
+          "title": "Ankbit E600 Bluetooth Headphones Over The Ear with AptX HD&Low Latency, 60H Playtime Headphones Over Ear with Active CVC 8.0 Call Noise Reduction Built-in MIC and Voice Assistance for Travel and Home",
+          "rrf_score": 0.014925,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B078TGDJQR",
+          "title": "Eachbid Running Headphones Over Ear in Ear Noise Isolating Sport Earbuds Earphones with Remote and Mic Earhook Wired Stereo Workout Ear Buds for Jogging Gym for iPhone iPod Samsung Blue",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 19,
+          "asin": "B0C32SMPNP",
+          "title": "Monster Open Ear Headphones Air Conduction Headphones Wireless Sport Headphones Bluetooth 5.3, Running Earphones with Enhanced Bass, IPX5 Sweatproof for Workout, 7H Playtime Built-in Mic, Silver",
+          "rrf_score": 0.014706,
+          "relevance": 0
+        },
+        {
+          "rank": 20,
+          "asin": "B09KVHV2MF",
+          "title": "Cabor Over Ear Wireless Headphones Behind The Head \u2013 Soft Wrap Around Headphones with Microphone, 20-Hour Battery Life, Foldable for Workout, Office, Walking, and Running, Black",
+          "rrf_score": 0.014706,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tier": 1,
+      "query": "noise cancelling headphones",
+      "latency_ms": 25.1,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B0B3LXYHVH",
+          "title": "Active Noise Cancelling Headphones,Wireless Bluetooth Headphones Built-in Mic 40 Hours Playtime Wireless Noise Cancelling Headphone 3D Low Bass Tone Fast Charge for Cellphone/Work/Gym/TravelComputers",
+          "rrf_score": 0.03306,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B00H40JTTM",
+          "title": "Able Planet NC190SM Noise Cancelling Headphones Silver",
+          "rrf_score": 0.029211,
+          "relevance": 1
+        },
+        {
+          "rank": 3,
+          "asin": "B0BRZ2BFVK",
+          "title": "E7 Active Noise Cancelling Headphones Bluetooth Headphones Over Ear Wireless Headphones with Microphone Deep Bass, Comfortable Protein Earpads, 30HPlaytime for Travel/Work",
+          "rrf_score": 0.028034,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B01CM2XW4O",
+          "title": "Headphones,UiiSii US80 In Ear Metal Earphones with Microphone Noise Cancelling Earbuds for Iphone Android Smartphone, Laptop ,Tablet, MP3 (Gold)",
+          "rrf_score": 0.027656,
+          "relevance": 0
+        },
+        {
+          "rank": 5,
+          "asin": "B09TSVQ1BC",
+          "title": "Noise Cancelling Headphones, USB-C Fast Charge, 45Hrs Wireless Headphones Over Ear, Wireless Headphone with Microphone, Stereo Sound, Foldable Wireless Wired Headset for Woman Girls Travel",
+          "rrf_score": 0.027151,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B01M5JOREW",
+          "title": "Monoprice SonicSolace Active Noise Cancelling Bluetooth Wireless Headphones - Champagne with Tan Over Ear Headphones",
+          "rrf_score": 0.027149,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B0BLG1T9CY",
+          "title": "Soundcore by Anker Space Q45 Adaptive Active Noise Cancelling Headphones, Reduce Noise by Up to 98%, 50H Playtime, App Control, LDAC Hi-Res Wireless Audio, Comfortable Fit, Clear Calls, Bluetooth 5.3",
+          "rrf_score": 0.027032,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B0B9SC3MHY",
+          "title": "Noise Cancelling Headphones Bluetooth 5.0, 35Hrs Playtime Wireless Headphones Over-Ear w/Hi-Fi Stereo Deep Bass, CVC 8.0 Noise Cancelling, Bluetooth Headphones for Online Course Airplane Travel",
+          "rrf_score": 0.026876,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B0105VDCZ8",
+          "title": "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - White (Wired 3.5mm)",
+          "rrf_score": 0.026399,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B009QFG5X6",
+          "title": "Able Planet True Fidelity Active Noise Canceling Headphones (Silver Chrome)",
+          "rrf_score": 0.024819,
+          "relevance": 1
+        },
+        {
+          "rank": 11,
+          "asin": "B0BN8J8XD5",
+          "title": "Soundcore by Anker Life Q35 Multi Mode Active Noise Cancelling Headphones, Bluetooth Headphones with LDAC for Hi Res Wireless Audio, 40H Playtime, Comfortable Fit, Clear Calls, for Home, Work, Travel",
+          "rrf_score": 0.024807,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B09G2F6G6L",
+          "title": "Vsonus H51 Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, Heavy Bass, BT 5.0, 30H Playtime, Metal Cover, Comfortable Protein Earpads for Travel Home Office",
+          "rrf_score": 0.023934,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B0BLJX2YLY",
+          "title": "zenalla E7S Bluetooth Headphones Active Noise Cancelling Headphones, Over Ear Headphones, Wireless Headphones, Stable Calls, 30Hrs for Talk/Music/Work, Comfortable fit, Bluetooth 5.0, Red",
+          "rrf_score": 0.023421,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B0B8N4T9CN",
+          "title": "Active Noise Cancelling Headphones E600Pro, 80Hours Playtime Wireless Headphone with aptX Low Latency, Bluetooth Headphones with Built-in Microphone, Deep Bass Over-Ear Headphones (Black)",
+          "rrf_score": 0.022045,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B01KWQ0TL6",
+          "title": "Active Noise Cancelling Bluetooth Headphones, iDeaUSA Wireless Headphones with Microphones Over Ear Headphones with Airplane Adapter HiFi Stereo Sound 16 Hours Playback - Black/Grey",
+          "rrf_score": 0.022029,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B0C1G228K6",
+          "title": "Roollmantaker Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones with Microphone,40H Playtime,Fast Charge,Foldable,Deep Bass for Work,Travel,TV(Black)",
+          "rrf_score": 0.022004,
+          "relevance": 2
+        },
+        {
+          "rank": 17,
+          "asin": "B079GMZHT7",
+          "title": "Avantree ANC032 Active Noise Cancelling Headphones Over Ear with Microphone for Home Office, Conference Call, Wireless Wired ANC Sound proof Hi-Fi Stereo Bluetooth Headset with Mic for TV PC Computer",
+          "rrf_score": 0.021969,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B09H59HGFH",
+          "title": "Silensys E7 PRO Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Fit, 30H Playtime for TV/Computer/Cellphone, Pink",
+          "rrf_score": 0.021961,
+          "relevance": 2
+        },
+        {
+          "rank": 19,
+          "asin": "B087CPDZXP",
+          "title": "TCL Active Noise Cancelling Wireless Headphones, ONKYO H720NC Over Ear Bluetooth Headphones, Hi-Res Stereo Deep Bass, Built-in Mic, Travel Case, Memory Foam Earcups, 26H Playtime for Home Office",
+          "rrf_score": 0.02144,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B09FXN6G3T",
+          "title": "Silensys E7 Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Protein Earpads, 30 Hours Playtime for Travel/Work, Black",
+          "rrf_score": 0.01916,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tier": 1,
+      "query": "bluetooth headphones under $100",
+      "latency_ms": 10.3,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B087D6J9VH",
+          "title": "Magnavox MBH542-RD Bluetooth Wireless Foldable Stereo Headphones in Red",
+          "rrf_score": 0.026667,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B09414PJ6Q",
+          "title": "Bluetooth Headphones, PowerLocus Bluetooth Headphones Over-Ear, Passive Noise Cancelling Headphone with Microphone, 70Hrs Playtime, Foldable Wireless Headphones,Hi-Fi Deep Bass for Work,Home Office,PC",
+          "rrf_score": 0.021613,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B0BVRKXJ1C",
+          "title": "EAORUL Bluetooth Headphones Over Ear with Microphone,Wireless Headphones, Deep Bass, Fast Charging, Foldable Headphones for Travel, Home, Office",
+          "rrf_score": 0.021289,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B0BCVM5YCJ",
+          "title": "iClever BTH02 Kids Headphones, Kids Wireless Headphones with MIC, 22H Playtime, Bluetooth 5.0 & Stereo Sound, Foldable, Adjustable Headband, Childrens Headphones for iPad Tablet Home School, Purple",
+          "rrf_score": 0.018475,
+          "relevance": 1
+        },
+        {
+          "rank": 5,
+          "asin": "B0BLSKG86X",
+          "title": "LC-dolida Bluetooth Headband Headphones, Cozy Sleep Mask with Bluetooth Headphones Sleep Headphone Bluetooth Headband with Thin Speaker Handsfree Gadgets Best Gift Ideas (Purple)",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 6,
+          "asin": "B00N43BPPO",
+          "title": "Kinivo BTH240 Bluetooth Headphones (White, On-Ear, Wireless Music, Hands-Free Calling, Built-in Mic, Foldable, Memory Form Earpads, Travel Bag)",
+          "rrf_score": 0.016667,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B0BLJX2YLY",
+          "title": "zenalla E7S Bluetooth Headphones Active Noise Cancelling Headphones, Over Ear Headphones, Wireless Headphones, Stable Calls, 30Hrs for Talk/Music/Work, Comfortable fit, Bluetooth 5.0, Red",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B00HXTHFW2",
+          "title": "Panasonic RP-HJE120 ErgoFit In-Ear Headphones Stereo Earbuds (2-Pack, Silver)",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 9,
+          "asin": "B07WDQ499P",
+          "title": "Wireless Headphones,Bluetooth Headphones Bluetooth 5.0, IPX5 Waterproof Built-in Mic 1000min Playtime,Bass Hi-Fi Stereo, Magnetic Connection, for Sports Running",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 10,
+          "asin": "B00ECGRODE",
+          "title": "Kinivo BTH240 Bluetooth Headphones (Red, On-Ear, Wireless Music, Hands-Free Calling, Built-in Mic, Foldable, Memory Form Earpads, Travel Bag)",
+          "rrf_score": 0.016129,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B0BKQMJC2G",
+          "title": "Sleep Mask with Bluetooth Headphones,LC-dolida Sleep Headphones Bluetooth Sleep Mask 3D Sleeping Headphones for Side Sleepers Best Gift and Travel Essential (Elegant Purple)",
+          "rrf_score": 0.015873,
+          "relevance": 1
+        },
+        {
+          "rank": 12,
+          "asin": "B00AU0I660",
+          "title": "iDance BLUE300R Bluetooth Headphones - Red",
+          "rrf_score": 0.015873,
+          "relevance": 1
+        },
+        {
+          "rank": 13,
+          "asin": "B01N650TSI",
+          "title": "AngLink Bluetooth Headphones, V4.1 Wireless Bluetooth Earphones Sports in-Ear Running Headphones with Mic for Gym Running iPhone Android (apt-X, CVC 6.0, Noise Cancellation and Sweatproof)",
+          "rrf_score": 0.015625,
+          "relevance": 1
+        },
+        {
+          "rank": 14,
+          "asin": "B0889YWZV9",
+          "title": "Bluetooth Headphones, Louise&Mann Wireless Headphones Over-Ear, Stereo Headset with Microphone, Soft Earmuffs, Bag for Transport for Phones/Tablets/PC (Rose Gold)",
+          "rrf_score": 0.015625,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B09R1STRRZ",
+          "title": "Q5Q6 Sleep Headphones, 3D Bluetooth Sleep Mask, Wireless Sleeping Headphones for Side Sleepers, Sleep Mask with Bluetooth Headphones Insomnia Travel Nap Gifts Men Women",
+          "rrf_score": 0.015385,
+          "relevance": 1
+        },
+        {
+          "rank": 16,
+          "asin": "B0BKGBRWWV",
+          "title": "ZKAPOR Open Ear Headphones Sports Bluetooth Earbuds",
+          "rrf_score": 0.015385,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B08D6L124J",
+          "title": "LOBKIN Wireless Bluetooth Headphones, Over-Ear Headphones with Built-in HD Mic,40H Playtime, Foldable Wireless and Wired Stereo Headphones for Gym/PC/Home",
+          "rrf_score": 0.015152,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B01F2O1CFK",
+          "title": "Amazon Basics In-Ear Headphones - Blue",
+          "rrf_score": 0.015152,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B0B1L2T7F1",
+          "title": "TOPOINT Sleep Headphones, Bluetooth Headband Headphones Music Sleep Headband Wireless Earphones Sleeping Headphones for Side Sleepers Women Girls Adults Sleeping Headband",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 20,
+          "asin": "B072YQPWGR",
+          "title": "Audiomate BT980 Stereo HD Audio Bluetooth Wireless Over-Ear Headphones Built-in Microphone Hidden Remote Controls XL Ear Cups TruBass Enhancement - Black",
+          "rrf_score": 0.014925,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tier": 1,
+      "query": "wired headphones",
+      "latency_ms": 315.7,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B0BN88NRN9",
+          "title": "Wired Headphones,in-Ear Headphones with Microphone, Earbuds Built-in Call Volume and Control Button, Compatible with iPhone 6/6Plus/6S/6SPLUS/Android/iPad/Laptop and Most 3.5mm Jack Devices(2 Pack)",
+          "rrf_score": 0.031592,
+          "relevance": 1
+        },
+        {
+          "rank": 2,
+          "asin": "B0C6QRJX93",
+          "title": "2 Packs Apple Wired Headphones Earbuds with Microphone,in-Ear Earphones Volume Control[Apple MFi Certified] Headphones Compatible with iPhone/ipad/Android/Computer and Other 3.5mm Jack Devices",
+          "rrf_score": 0.031514,
+          "relevance": 1
+        },
+        {
+          "rank": 3,
+          "asin": "B0B4JCT3QB",
+          "title": "4 Pack Wired Earbuds 3.5mm Ergonomic Noise Isolating in-Ear Headphones Built-in Microphone Compatible with Android Smartphones Laptops MP3",
+          "rrf_score": 0.030366,
+          "relevance": 1
+        },
+        {
+          "rank": 4,
+          "asin": "B0891Z6HWT",
+          "title": "Artix CL750 Wired Headphones with Mic & Volume Control \u2014 Noise Isolating Computer Headphones Wired, On-Ear Headphones with Wire, Plug In Headphones for Laptop, Corded Headphone Over Ear Aux Jack 3.5mm",
+          "rrf_score": 0.026736,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B0BHWFTMGF",
+          "title": "Wired Earbuds with Microphone ,In-Ear Headphones, Extra Bass Earbud Headphones,Memory Foam,ergonomic custom earbuds (S/M/L) ,Compatible with iPhone, iPad,Android , Laptop,MP3 and Most 3.5mm Interface",
+          "rrf_score": 0.026393,
+          "relevance": 1
+        },
+        {
+          "rank": 6,
+          "asin": "B09B78THFD",
+          "title": "6 Pack Headphone Earphones Earbuds 3.5mm Wired Headphone Noise Isolating Earphones with Built-in Microphon Volume Control Compatible with iPhone 6 Plus SE 5S 4 iPad Samsung Android MP3",
+          "rrf_score": 0.024108,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B09SFZ4GW6",
+          "title": "Wired Earbuds with Microphone 4 Pack, Wired Earphones with Stereo Noise Blocking, in-Ear Headphones High Sound Quality, Compatible with iPhone and Android Devices, iPod, MP3, Fits All 3.5mm Jack",
+          "rrf_score": 0.023555,
+          "relevance": 1
+        },
+        {
+          "rank": 8,
+          "asin": "B09ZQ9KD71",
+          "title": "Vofolen Wired Headphones with Mic, Wired in Ear Ear Buds with 3.5mm Standard Headphone Jack, Plug in Earphones with Volume Control for School Kids, Earbuds Wired for Ipad Android Computer Laptop",
+          "rrf_score": 0.022858,
+          "relevance": 1
+        },
+        {
+          "rank": 9,
+          "asin": "B01NA0NG3V",
+          "title": "Audiomate A7 Noise-isolating Wired Stereo Extra Bass Foldable Stereo Tangle-Free On-Ear Headphones with Built-in Microphone and Remote 5ft Cable 3.5mm Plug Green",
+          "rrf_score": 0.022249,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B0B1LJQSK6",
+          "title": "On-Ear Headphones with Microphone, 2022 Newest Foldable Wired Headphones for Adults Kids, Lightweight Portable Stereo Headphones with 1.5M Tangle-Free Cord for School Home Green",
+          "rrf_score": 0.021391,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B09V7T2R5X",
+          "title": "Amoner Wired Earbuds, Headphones Noise Isolating Earphones with Microphone Earbud in-Ear Headphones with Stereo Sound Earphone Wired for iPhone, Android Smartphones, MP3, Laptop, Computer etc",
+          "rrf_score": 0.020893,
+          "relevance": 1
+        },
+        {
+          "rank": 12,
+          "asin": "B0BV6N4LR9",
+          "title": "esonstyle Bluetooth Headphones Over Ear Foldable Wireless and Wired Stereo Headset with Mic Soft Earmuffs Light Weight for Phone TV PC Online Class Home Office (Apricot)",
+          "rrf_score": 0.02073,
+          "relevance": 1
+        },
+        {
+          "rank": 13,
+          "asin": "B07V3GLTMG",
+          "title": "Beats EP Wired Headphones On Ear headphone Red (Renewed)",
+          "rrf_score": 0.020221,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B09NDNJB5F",
+          "title": "Professional in-Ear Headphones 3.5mm in-Ear Earphone for Phone Stereo Bass Headset Metal Wired Earphone HiFi Headphones Mic",
+          "rrf_score": 0.020105,
+          "relevance": 1
+        },
+        {
+          "rank": 15,
+          "asin": "B094XZV48Y",
+          "title": "klangdorf 2 Pack Black Wired Headphones Earbuds mic in Ear Buds Earphones Microphone Best for Laptops Phones 3.5mm Cell Phone Fitness Set Music Conference Meetings Case Extra Buds, Black 2 pack",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 16,
+          "asin": "B08DFNVNG9",
+          "title": "gozanga 2 Pack Wired Earbuds - Corded Earphones with Microphone",
+          "rrf_score": 0.016393,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B07TTL3HHX",
+          "title": "Wired Bass Earbuds Sport in-Ear Headphone Wired with Micro Phone",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 18,
+          "asin": "B09B9D1N75",
+          "title": "Gsangoo Wired Headphones for Samsung A12 A32 5G",
+          "rrf_score": 0.015873,
+          "relevance": 1
+        },
+        {
+          "rank": 19,
+          "asin": "B07FDX58L5",
+          "title": "Earphones Wired Earphones in Ear Headphones with Pure Sound and Powerful Bass Compatible iPhone, Samsung Smartphones \u2026 (Gold)",
+          "rrf_score": 0.015625,
+          "relevance": 1
+        },
+        {
+          "rank": 20,
+          "asin": "B081RBT9HM",
+          "title": "Black Panther Headphones, Adjustable Headband, Stereo Sound, 3.5Mm Jack, Wired Headphones, Tangle-Free, Volume Control, Foldable, Kids Headphones Over Ear for School Home Travel",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tier": 2,
+      "query": "noise cancelling headphones under $200 for studying",
+      "latency_ms": 322.7,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B0B3LXYHVH",
+          "title": "Active Noise Cancelling Headphones,Wireless Bluetooth Headphones Built-in Mic 40 Hours Playtime Wireless Noise Cancelling Headphone 3D Low Bass Tone Fast Charge for Cellphone/Work/Gym/TravelComputers",
+          "rrf_score": 0.031592,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B01M5JOREW",
+          "title": "Monoprice SonicSolace Active Noise Cancelling Bluetooth Wireless Headphones - Champagne with Tan Over Ear Headphones",
+          "rrf_score": 0.027652,
+          "relevance": 1
+        },
+        {
+          "rank": 3,
+          "asin": "B0BRZ2BFVK",
+          "title": "E7 Active Noise Cancelling Headphones Bluetooth Headphones Over Ear Wireless Headphones with Microphone Deep Bass, Comfortable Protein Earpads, 30HPlaytime for Travel/Work",
+          "rrf_score": 0.026905,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B08DHXKXW9",
+          "title": "Earbay Bluetooth Phone Headset with Microphone Noise Cancelling, Wireless Headphones with Mic Mute, Call Center PC Headsets for Smartphone Tablet Computer Office Conference",
+          "rrf_score": 0.026598,
+          "relevance": 0
+        },
+        {
+          "rank": 5,
+          "asin": "B0B9SC3MHY",
+          "title": "Noise Cancelling Headphones Bluetooth 5.0, 35Hrs Playtime Wireless Headphones Over-Ear w/Hi-Fi Stereo Deep Bass, CVC 8.0 Noise Cancelling, Bluetooth Headphones for Online Course Airplane Travel",
+          "rrf_score": 0.024607,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B08FRLCF2W",
+          "title": "SuperEQ S2 Bluetooth Active Noise Cancelling Headphones, Wired and Wireless On-Ear Headphones with CVC 8.0, Hi-Fi Stereo Deep Bass 25H Playtime for Kids Adults Travel Sports Office-Black",
+          "rrf_score": 0.024595,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B09G2F6G6L",
+          "title": "Vsonus H51 Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, Heavy Bass, BT 5.0, 30H Playtime, Metal Cover, Comfortable Protein Earpads for Travel Home Office",
+          "rrf_score": 0.024394,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B0BLG1T9CY",
+          "title": "Soundcore by Anker Space Q45 Adaptive Active Noise Cancelling Headphones, Reduce Noise by Up to 98%, 50H Playtime, App Control, LDAC Hi-Res Wireless Audio, Comfortable Fit, Clear Calls, Bluetooth 5.3",
+          "rrf_score": 0.023265,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B09TSVQ1BC",
+          "title": "Noise Cancelling Headphones, USB-C Fast Charge, 45Hrs Wireless Headphones Over Ear, Wireless Headphone with Microphone, Stereo Sound, Foldable Wireless Wired Headset for Woman Girls Travel",
+          "rrf_score": 0.023129,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B00WU0PYXG",
+          "title": "Audio-Technica ATH-ANC7B QuietPoint Active Noise-Cancelling Closed-Back Headphones, Wired",
+          "rrf_score": 0.022958,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B0B8N4T9CN",
+          "title": "Active Noise Cancelling Headphones E600Pro, 80Hours Playtime Wireless Headphone with aptX Low Latency, Bluetooth Headphones with Built-in Microphone, Deep Bass Over-Ear Headphones (Black)",
+          "rrf_score": 0.022661,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B0105VDCZ8",
+          "title": "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - White (Wired 3.5mm)",
+          "rrf_score": 0.022029,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B01N4ONWV3",
+          "title": "iDeaUSA Active Noise Cancelling Bluetooth Headphones, Wireless Over Ear Headphones with Microphone, HiFi Stereo Sound, Headphones for TV, Running, Sports - Silver",
+          "rrf_score": 0.019872,
+          "relevance": 1
+        },
+        {
+          "rank": 14,
+          "asin": "B079GMZHT7",
+          "title": "Avantree ANC032 Active Noise Cancelling Headphones Over Ear with Microphone for Home Office, Conference Call, Wireless Wired ANC Sound proof Hi-Fi Stereo Bluetooth Headset with Mic for TV PC Computer",
+          "rrf_score": 0.019488,
+          "relevance": 1
+        },
+        {
+          "rank": 15,
+          "asin": "B0BMG1TPXC",
+          "title": "233621 Shell Noise Cancelling Headphones. Lightweight Over Ear ANC Bluetooth Headphones. Fast Charge, 60 Hours Playtime, Wireless Headphones with Call Noise Reduction for Improved Call Quality (Ice)",
+          "rrf_score": 0.016667,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B009S6RQHW",
+          "title": "AGPTEK\u00ae Noise Canceling On-Ear Headphones Headset Noise Cancellation Reduction Foldable Comfortable Stereo Acoustic with Case Audio Cable Plug Adaptor",
+          "rrf_score": 0.016393,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B08L9QXZ5C",
+          "title": "JBL CLUB 950 - Premium Wireless Over-Ear Headphones with Hi-Res Sound Quality and Adaptive Noise Cancellation - Black (Renewed)",
+          "rrf_score": 0.016129,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B000BNLIQ6",
+          "title": "Acoustic Research Closed-back Monitor Professional Studio Headphones (Discontinued by Manufacturer)",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B0BYZB74VD",
+          "title": "YouthWhisper Bone Conduction Bluetooth Headphones, Open-Ear Headphones with Noise-Canceling Microphone, Wireless Headset for Work, Learning, Running, Driving\uff08Pro\uff09",
+          "rrf_score": 0.015873,
+          "relevance": 1
+        },
+        {
+          "rank": 20,
+          "asin": "B09GV2PSSP",
+          "title": "Silensys E7 PRO Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Fit, 30H Playtime for TV/Computer/Cellphone, Black",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tier": 2,
+      "query": "wireless earbuds for running under $50",
+      "latency_ms": 254.2,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B099ZFRLL2",
+          "title": "KOSETON True Wireless Earbuds \u2013 Baby Blue Wireless in-Ear Headphones for Running and Sport \u2013 Bluetooth Earbuds with a Comfortable, Secure Fit, 30 Hour Battery, Great Sound",
+          "rrf_score": 0.029324,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B07VD97MCP",
+          "title": "Wireless Headphones - Premium 2020 - Best Wireless Earbuds - Workout Headphones - Sport Headphones - Running Headphones - Waterproof Headphones - IPX7 - w/Mic Noise Cancelling - for Women Men",
+          "rrf_score": 0.026334,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B0B2ZG8DR4",
+          "title": "Altec Lansing NanoBuds 2.0 True Wireless Earbuds with Charging Case, TWS Waterproof Bluetooth Earphones with Touch Controls for Travel, Sports, Running, Working (Cool Grey)",
+          "rrf_score": 0.024234,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B09W5DX5JH",
+          "title": "KOSETON E9 True Wireless Earbuds, Baby Blue \u2013 Wireless in-Ear Headphones for Running and Sport \u2013 Bluetooth Earbuds with a Comfortable, Secure Fit, 30 Hour Battery, Great Sound",
+          "rrf_score": 0.024223,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B0B55Z76XM",
+          "title": "comiso Wireless Earbuds, True Wireless in Ear Bluetooth 5.0 with Microphone, Deep Bass, IPX7 Waterproof Loud Voice Sport Earphones with Charging Case for Outdoor Running Gym Workout (All Black)",
+          "rrf_score": 0.022592,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B09KNFR6XB",
+          "title": "Bluetooth 5.1 Wireless Earbuds RFNAYK Wireless Sports Bluetooth Earphones IPX7 Waterproof in Over Ear Headphones with Earhooks Built-in Mic Headset for iPhone Android Running Outdoor Workout",
+          "rrf_score": 0.019615,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B084VQHZMT",
+          "title": "Wireless Earbuds with Charging Case,Bluetooth Earbuds with Mic for Running,Wireless Earphones Bluetooth Earphones with Microphone,Mini Sports Earbuds Sweatproof Compatible iOS Android Smartphone",
+          "rrf_score": 0.016667,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B0BLW8GTZ8",
+          "title": "GOALSEN X7 Single Bluetooth Wireless Earbud Mini Invisible in-Ear Super Long Battery Life Headphone -Beige",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 9,
+          "asin": "B08TC3G2VY",
+          "title": "PRTUKYT Wireless Earbuds, Bluetooth 5.0 Running Headphones Stereo Deep Bass Sport Earphones Built-in Mic Digital LED Display 30Hrs Playtime Headset with Ear Hooks for Sports Running Gym",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B07J9RXPY8",
+          "title": "100x Multipack of Colorful in-Ear Earbuds | Bulk Earbuds JustJamz Marbles, Wholesale Colorful Earphones, Disposable Earbuds, Headphones in Bulk, Jack Headphones, for Kids & Adults, Assorted Colors",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 11,
+          "asin": "B0BRL5KJ96",
+          "title": "Runner 60 Wireless Sport Earbuds for Running 80 Hour Long Battery Life Over the Ear Earbuds with EarHooks, Wrap Around Ear Buds Wireless Bluetooth Earbuds with Microphone, Earphones In Ear Headphones",
+          "rrf_score": 0.016129,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B0B3QWTT2L",
+          "title": "Wireless Earbuds Bluetooth Headphones 60Hrs Playback Clear Call Wireless Charging Case with LED Power Display Built-in Mic Stereo Headset Sweatproof occiam Waterproof Earphones for Workout White",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 13,
+          "asin": "B07XFMHQDP",
+          "title": "APEKX Wireless Earbuds Bluetooth 5.3: IPX7 Waterproof, Stereo Sound, Built-in Mic, Earbuds for Gym & Workouts, True Wireless Earphones (Black)",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B08R1LGZYQ",
+          "title": "Wireless Earbuds, Bluetooth 5.1 Earbuds Hi-Fi Stereo Headphones 30H Playtime True Wireless Earbuds IPX6 Waterproof Earphones in-Ear Headphones with Mic and Type C for Working/Travel/Gym",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B07JVQ522F",
+          "title": "Bulk Earbuds 50 Pack | Basic Earbuds, Dot Headphones, Black in-Ear Earbuds, Disposable Headphones, 3.5 MM Audio Jack Stereo Earphones for Schools, Kids, Classrooms & Libraries",
+          "rrf_score": 0.015625,
+          "relevance": 0
+        },
+        {
+          "rank": 16,
+          "asin": "B0BKGXHMRW",
+          "title": "Sudio N2 True Wireless Bluetooth Open-Ear Earbuds - Multipoint Connection, Built-in Microphone for Calls, 30h Battery Time with Charging Case, IPX4 Water Resistant, USB-C & Wireless Charging (Black)",
+          "rrf_score": 0.015385,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B07T2JY57J",
+          "title": "JoyMsc Wireless Earbuds,Bluetooth Earbuds Wireless Earphones Noise Cancelling with Mic Charging Case,Sport Running Mini True Stereo Earbuds Bluetooth Compatible Android Samsung Phones X 8 7 (Black)",
+          "rrf_score": 0.015152,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B086BJGMYZ",
+          "title": "Helix True Wireless Earbuds, Black (ETHTWP)",
+          "rrf_score": 0.015152,
+          "relevance": 1
+        },
+        {
+          "rank": 19,
+          "asin": "B0797SNQLH",
+          "title": "Bluetooth Headphones,Maxtronic QY8 XE V4.1 Wireless Earbuds Lightweight Heavy Bass Noise Isolating with Microphones Flat Cord Stereo Wireless Earbuds Headset Earphones For Running & Gym Black",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 20,
+          "asin": "B09B76NZSK",
+          "title": "Wireless Earbuds 5.1 Bluetooth Headphones Sport with Two Detachable Earhooks in Ear Wireless Earphones Noise Cancelling Touch Control, 30H Playtime Deep Bass IP7 Waterproof Headset for Running Sport",
+          "rrf_score": 0.014925,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tier": 2,
+      "query": "over ear headphones long battery life under $100",
+      "latency_ms": 12.0,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B09KVHV2MF",
+          "title": "Cabor Over Ear Wireless Headphones Behind The Head \u2013 Soft Wrap Around Headphones with Microphone, 20-Hour Battery Life, Foldable for Workout, Office, Walking, and Running, Black",
+          "rrf_score": 0.027212,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B09WKK5C5B",
+          "title": "LOBKIN Over Ear Bluetooth Headphones Stereo Wireless Headphones with Built-in Mic Soft Memory-Protein Earmuffs for PC Phone TV (Light Blue)",
+          "rrf_score": 0.026944,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B00MVSG1C0",
+          "title": "Aptx Bluetooth Headphones, Hifi Stereo Foldable Soft Memory Protein Earmuffs Built-in Mic 20H Playtime Wireless over Ear Headset for PC/Cell Phone/DJ/TV",
+          "rrf_score": 0.026282,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B07KR62YBD",
+          "title": "Senso Bluetooth Headphones, Best Wireless Sports Earphones w/Mic IPX7 Waterproof HD Stereo Sweatproof Earbuds for Gym Running Workout 8 Hour Battery Noise Cancelling Headsets (Black Red)",
+          "rrf_score": 0.025709,
+          "relevance": 0
+        },
+        {
+          "rank": 5,
+          "asin": "B0741X1RD4",
+          "title": "Ear Shield Bone Conduction Headphones Wireless Bluetooth Headset Sport Earphone with Microphone (Black)",
+          "rrf_score": 0.025149,
+          "relevance": 0
+        },
+        {
+          "rank": 6,
+          "asin": "B071GFWJ6B",
+          "title": "Wireless Headphones, Otium X6 Neckband Bluetooth Headphones Lightweight Earbuds in-Ear Earphones Sports Headsets Magnetic Earbuds (Bluetooth 4.2, Noise Cancelling, Sweatproof, 10 Hours Playtime)",
+          "rrf_score": 0.023864,
+          "relevance": 0
+        },
+        {
+          "rank": 7,
+          "asin": "B081TC2V29",
+          "title": "Altec Lansing Wireless Bluetooth Headphones, Noise Cancelling Over Ear Headphone with Plush Ear Cushions, Rechargeable and Foldable Headset, 26 Hours of Playtime for Travel Work Phone",
+          "rrf_score": 0.02318,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B09G2F6G6L",
+          "title": "Vsonus H51 Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, Heavy Bass, BT 5.0, 30H Playtime, Metal Cover, Comfortable Protein Earpads for Travel Home Office",
+          "rrf_score": 0.022364,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B0C659M8KZ",
+          "title": "LASUNEY Wireless Earbuds, 35H Playtime Bluetooth Headphones with Mics and Charging Case for iPhone Android, Waterproof Running Headphones for Gym Workout, Hi-Fi Sound Over Ear Buds with Earhooks-Gold",
+          "rrf_score": 0.020669,
+          "relevance": 0
+        },
+        {
+          "rank": 10,
+          "asin": "B09NBC82RH",
+          "title": "Wireless Bluetooth 5.0 Earbuds Comfy in-Ear Noise Cancelling Bass Sound Waterproof Built-in Mic 120H Playtime LED Display charges cell Sport Black",
+          "rrf_score": 0.019238,
+          "relevance": 0
+        },
+        {
+          "rank": 11,
+          "asin": "B09SGB2WV4",
+          "title": "Donerton Wireless Earbud 5.1 Headphones 80 Hours Playtime Earphones with Charging Case, in Ear Headset IP7 Waterproof Earbud Noise Cancelling Microphone, LCD Display, for Working, White",
+          "rrf_score": 0.019055,
+          "relevance": 0
+        },
+        {
+          "rank": 12,
+          "asin": "B0BQLV7TSJ",
+          "title": "Headphones Earbuds",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 13,
+          "asin": "B07TN3DVVL",
+          "title": "JVC Wireless Earbud Headphones, Sweat Proof, 5 Hours Long Battery Life, Secure and Comfort Fit with 3 Button Remote - HAFY8BTR (Red)",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 14,
+          "asin": "B09HSL3QRG",
+          "title": "OYEALEX Active Noise Cancelling Over Ear Headphone Bluetooth Wireless Headphones with Microphone Deep Bass Foldable Comfortable Headphones for Online Class, Home Office, PC/Cell Phones/Game Orange",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B0BRL5KJ96",
+          "title": "Runner 60 Wireless Sport Earbuds for Running 80 Hour Long Battery Life Over the Ear Earbuds with EarHooks, Wrap Around Ear Buds Wireless Bluetooth Earbuds with Microphone, Earphones In Ear Headphones",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 16,
+          "asin": "B0C3ZQ7KHJ",
+          "title": "Bluetooth Headphones Wireless Earbuds 90H Playtime with 2200mAh Charging Case Dual Power Display Ear Buds Waterproof Over Ear Earphones with Earhooks for Sport Workout Laptop TV Computer Phone Black",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B07DF7NZCN",
+          "title": "JVC Flats Wireless On Ear Headphones, Light Weight, 11 Hours Long Battery Life - HAS20BTH (Gray)",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B07KF4DM6X",
+          "title": "Wireless Headphones Non Ear Plug, 2018 New True Wireless Earbuds Noise Cancelling Handsfree Headset with Microphone for iPhone and Android Smart Phones (Yellow)",
+          "rrf_score": 0.015873,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B07XTQH873",
+          "title": "Skullcandy Hesh 3 Wireless Over-Ear Headphone - White/Crimson (Renewed)",
+          "rrf_score": 0.015625,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B07PN7F6B8",
+          "title": "Sony WHXB700 Wireless Extra Bass Bluetooth Headset/Headphones with mic for phone call and Alexa voice control, Blue",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tier": 2,
+      "query": "comfortable headphones for long listening sessions",
+      "latency_ms": 11.3,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B004JU0E3U",
+          "title": "Philips SHL1700/28 Lightweight Headphone (Black) (Discontinued by Manufacturer)",
+          "rrf_score": 0.026993,
+          "relevance": 1
+        },
+        {
+          "rank": 2,
+          "asin": "B0BVRKXJ1C",
+          "title": "EAORUL Bluetooth Headphones Over Ear with Microphone,Wireless Headphones, Deep Bass, Fast Charging, Foldable Headphones for Travel, Home, Office",
+          "rrf_score": 0.01941,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B00GMM103Q",
+          "title": "Musical Fidelity MF100 Over-Ear Headphones",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 4,
+          "asin": "B00MMLXI4A",
+          "title": "Pioneer SE-MJ502-K Fully Enclosed Dynamic Headphone",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 5,
+          "asin": "B00134BYN4",
+          "title": "jWIN JH-E25WHT Bubble Gum Earphones (White) (Discontinued by Manufacturer)",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 6,
+          "asin": "B09KVHV2MF",
+          "title": "Cabor Over Ear Wireless Headphones Behind The Head \u2013 Soft Wrap Around Headphones with Microphone, 20-Hour Battery Life, Foldable for Workout, Office, Walking, and Running, Black",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B00WUCQH08",
+          "title": "JVC HA-NC120 Noise-canceling Headphones, Standard Packaging",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 8,
+          "asin": "B08XZ5RC22",
+          "title": "Sleep Headphones Bluetooth Sleeping Headband Soft Elastic Comfortable Sleeping Headphones Music Headband Great for Side Sleepers Running Yoga Insomnia Travel Gift for Men Women (Grey)",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 9,
+          "asin": "B01MEFYOF4",
+          "title": "JVC HA-RX330 Deep Bass Adjustable Over Head On Ear Studio Stereo Headphones - Black",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B08XZ75N44",
+          "title": "Sleep Headphones Bluetooth Sleeping Headband Soft Elastic Comfortable Sleeping Headphones Music Headband Great for Side Sleepers Running Yoga Insomnia Travel Gift for Men Women (Black)",
+          "rrf_score": 0.015873,
+          "relevance": 0
+        },
+        {
+          "rank": 11,
+          "asin": "B07TQM82NP",
+          "title": "iLive Gaming Headphones, Adjustable Headband, 7.6 x 3.43 x 7.9 Inches, Black/Blue (IAHG49B)",
+          "rrf_score": 0.015625,
+          "relevance": 1
+        },
+        {
+          "rank": 12,
+          "asin": "B08YKHW429",
+          "title": "CozyPhones Sleep Headphones - Over Ear Headphones from Ultra Thin Cool Mesh Wired for Side Sleepers, Meditation, Running, Laptop, and Phone - Purple Lycra",
+          "rrf_score": 0.015625,
+          "relevance": 0
+        },
+        {
+          "rank": 13,
+          "asin": "B01H2NDPGI",
+          "title": "Focal Open Back Over-Ear Headphone",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B0B4K1RD3X",
+          "title": "MMUSS Sleep Headphones Stereo Headband with Ultra Thin Speakers.Perfect for Side Sleeper,Sports,Air Travel,Meditation and Relaxation (Black3)",
+          "rrf_score": 0.015385,
+          "relevance": 0
+        },
+        {
+          "rank": 15,
+          "asin": "B07QF73BF6",
+          "title": "GROLEOA Gaming Headset for PC - Hi-fi Stereo Sound, Ultra-Soft Ear Cushions, Padded Headband, Adjustable Slider & Microphone",
+          "rrf_score": 0.015152,
+          "relevance": 1
+        },
+        {
+          "rank": 16,
+          "asin": "B0BYDCK2RZ",
+          "title": "Cosyband Sleep Headphones Wireless Headband, Sports Wireless Earphones Music Sleeping Headphones Mask Earbuds with HD Stereo Speaker for Women Men Teens Workout Running Cool Gadgets Unique Gifts",
+          "rrf_score": 0.015152,
+          "relevance": 0
+        },
+        {
+          "rank": 17,
+          "asin": "B07H7NBHMG",
+          "title": "Plantronics BackBeat FIT 350 Wireless Headphones, Stable, Ultra-Light, Sweatproof in Ear Workout Headphones, Black",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 18,
+          "asin": "B074XNNTD6",
+          "title": "Besom On-Ear Headphones with Microphone Lightweight Folding Stereo Headset Tangle Free Cord, Wired Headphones for Cellphones Smartphone Tablet Laptop Computer MP3/4 (Red)",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 19,
+          "asin": "B08Q2D3XR1",
+          "title": "Panasonic Headphones, On-Ear Lightweight Earphones with Microphone and XBS for Extra Bass and Clear, Natural Sound, 3.5mm Jack for Phones and Laptops, Work from Home - RP-HT21M (Black & Silver)",
+          "rrf_score": 0.014706,
+          "relevance": 1
+        },
+        {
+          "rank": 20,
+          "asin": "B07J6Q3TRF",
+          "title": "Alpha Beats Wireless Earbuds - Exclusive 2019 - Best Wireless Earbuds - Workout Headphones - Sport Headphones - Running Headphones - Waterproof Headphone - IPX7 - w/Mic Noise Canceling - for Women Men",
+          "rrf_score": 0.014706,
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tier": 2,
+      "query": "headphones with good microphone for calls",
+      "latency_ms": 11.6,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B09ZQ9KD71",
+          "title": "Vofolen Wired Headphones with Mic, Wired in Ear Ear Buds with 3.5mm Standard Headphone Jack, Plug in Earphones with Volume Control for School Kids, Earbuds Wired for Ipad Android Computer Laptop",
+          "rrf_score": 0.024276,
+          "relevance": 1
+        },
+        {
+          "rank": 2,
+          "asin": "B07RGG1JTX",
+          "title": "Wired Earphones,in-Ear Earbuds Headsets Heavy Bass Earphones with Microphone Compatible iPhone Samsung Galaxy S9/S9+ S8/S8+ Note8 iPad and Most Android Phones -6",
+          "rrf_score": 0.021204,
+          "relevance": 1
+        },
+        {
+          "rank": 3,
+          "asin": "B09C2ZFWF6",
+          "title": "Earbuds in-Ear Headphones, 3.5mm Wired Earbuds with Microphone Ergonomic Comfort-Fit for iOS and Android Smartphones, Laptops",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 4,
+          "asin": "B008JO2XBS",
+          "title": "IMAGE\u00ae 2 in 1 Over the Head Boom Mic Microphone Stereo Bluetooth Headset Wireless Handsfree Headphone Nosie Canceling (Black)",
+          "rrf_score": 0.016667,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B08Z85S5BF",
+          "title": "klangdorf 2 Pack White and Pink Earbuds with Microphone Includes S,M,L Sizes eartips and a Free Carry Pouch",
+          "rrf_score": 0.016393,
+          "relevance": 1
+        },
+        {
+          "rank": 6,
+          "asin": "B07MG2JRYZ",
+          "title": "Cellet Universal Premium Mono 2.5mm Hands-Free Headset w/Boom Microphone for landline Phone, Cordless Phone, Office Phones, Business Phones, Call Centers. (Not for Smart Phones)",
+          "rrf_score": 0.016393,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B0B771XWX9",
+          "title": "Flavocal Kids Headphones for School, Headphones for Kids with Microphone, Adjustable & Foldable, Wired Kids Headphones for Children Teens Travel School Online Learning Tablet, Green",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 8,
+          "asin": "B08LD3RCF6",
+          "title": "3.5mm Cell Phone Headset with Microphone Noise-Cancelling, Stereo Wired Headset with Inline Volume Control and Mic Mute for PC/Laptop/Cell Phone Call Headset with Comfort-fit Ear Cushions",
+          "rrf_score": 0.016129,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B08Q3VH38Y",
+          "title": "USB, 3.5 and USB-C, Quality Sound Headset with Microphone, Noise Cancelling mic, Mute Button LED, Laptop, PC, MAC, Zoom, Skype, Video Conference Calls, Lightweight Headphones with mic",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B09SFZ4GW6",
+          "title": "Wired Earbuds with Microphone 4 Pack, Wired Earphones with Stereo Noise Blocking, in-Ear Headphones High Sound Quality, Compatible with iPhone and Android Devices, iPod, MP3, Fits All 3.5mm Jack",
+          "rrf_score": 0.015625,
+          "relevance": 1
+        },
+        {
+          "rank": 11,
+          "asin": "B0BDL8G71X",
+          "title": "Wired headphones pc headset usb - computer headset with microphone for laptop noise cancelling headphones 3.5mm& usb jack, with volume & mic mute for Zoom, Skype, Call Center, Home",
+          "rrf_score": 0.015625,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B0BB5B1H73",
+          "title": "Skullcandy Riff Wired On-Ear Headphones - White/Crimson",
+          "rrf_score": 0.015385,
+          "relevance": 1
+        },
+        {
+          "rank": 13,
+          "asin": "B0BHQL4HPT",
+          "title": "USB Headset with Microphone for PC, Noise Cancelling & Audio Controls Computer Headset 3.5mm Jack / USB Connection For Cell Phone/Call Center/Skype/Zoom/Webinar",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B09J2H8XRY",
+          "title": "VddSmm \u30106 Pack\u3011 Wired Earbuds with Microphone, Wired Earphones with Mic, in-Ear 3.5mm Ear Bud Headphones Stereo Sound Noise Isolating for iPhone, Android Devices, iPod, MP3, Fits All 3.5mm Interface",
+          "rrf_score": 0.015152,
+          "relevance": 1
+        },
+        {
+          "rank": 15,
+          "asin": "B08DXQLWHB",
+          "title": "TelPal Noise Cancelling Telephone Headset One Ear with Mic & Adapter for Call Center, Desk Phone Headset, Perfect for Phone Sales, Insurance, Hospitals, Telecom Operators - [Monaural]",
+          "rrf_score": 0.015152,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B017UNG7ME",
+          "title": "Bibuds M300 Wired In-Ear Headphones Earbuds Earphones with In- line Mic & Volume Control & Pause/Start Button Deep Bass Sound Performance for Smartphones, Tablets and Mp3/Mp4 Players. (Black)",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B00B6PSJTM",
+          "title": "Pro Stereo Headset with Boom MIC- 79263",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 18,
+          "asin": "B0154RZUH6",
+          "title": "Bose SoundTrue around-ear wired headphones II - Apple devices, Navy Blue",
+          "rrf_score": 0.014706,
+          "relevance": 1
+        },
+        {
+          "rank": 19,
+          "asin": "B0BS5SBGG4",
+          "title": "GEVO USB Earbuds Headset with Microphone for PC, USB Earphones for Computer, Headset USB with 2M/6.6FT Long Cord, Noise Cancelling Microphone USB Headphone for PC Laptop, Control & Mute Function",
+          "rrf_score": 0.014706,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B07P6MNJMV",
+          "title": "PHILIPS BASS+ SHB3075 Wireless Headphones, up to 12 Hours of Playtime - Matte Black",
+          "rrf_score": 0.014493,
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tier": 2,
+      "query": "kids headphones with volume limit under $30",
+      "latency_ms": 10.5,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B09NPLXG3W",
+          "title": "Kids Headphones, Wired Stereo Kids Headphones with Microphone, 85/94dB Volume Limit, Audio Sharing 3.5mm Headphone with Enlarged Earcups, Foldable Over-Ear Headset for Study, Travel, School(Blue)",
+          "rrf_score": 0.030214,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B0B58RXGWZ",
+          "title": "Kids Headphones with Mic, Wired On-Ear Child Headset for Kids Gifts, HD Sound Sharing Function and 85dB Volume Limited Hearing Protection for Boys/Girls in Home/Travel/Virtual Schooling (Pink)",
+          "rrf_score": 0.029214,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B01DMHPT3U",
+          "title": "Kidz Gear Wired Headphones for Kids - Ltd. Edition White",
+          "rrf_score": 0.028893,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B09YH8HW62",
+          "title": "Neesolo Kids Headphones with Microphone, Wired Headphones for Kids for School with 91dB Volume Limit, Stereo On Ear Children Headset with Share Splitter for Boys Girls Toddler School Travel (2 Packs)",
+          "rrf_score": 0.028219,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B09V2PW7HZ",
+          "title": "KLUGMIA Kids Bluetooth Headphones, 85/94dB Volume Limited Kids Headphones, Over Ear Toddler Headphones with Built-in Mic, Bluetooth 5.0, Foldable Wireless Headphones for Kids (Pink)",
+          "rrf_score": 0.027673,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B0BD8DTFC7",
+          "title": "Kids Headphones, 94dB Volume Limit Wired Headphone for Kids, Foldable Lightweight Toddler Headphone Over Ear for School Airplane Travel, Soft Earmuff, 3.5mm Wired Headset for iPad Chromebook Girls Boy",
+          "rrf_score": 0.026282,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B08ZKZB9BH",
+          "title": "Kids Headset Headphone Earbuds with Microphone for Kids on Over Ear Online School Study Volume Limited Safe 85dB Adjustable Headband Tangle-Free 3.5mm Jack Plug Smartphone Tablets PC Xbox Connection",
+          "rrf_score": 0.026154,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B09Q8K6WTW",
+          "title": "awatrue Kids Headphones with Microphones Volume Limit 85/94dB Toddler Headset 3.5mm Jack Wired Adjustable Headband Foldable for Girls Boys Children Teens Pad Smartphones School Airplane Travel Tablet",
+          "rrf_score": 0.025914,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B09B3SWW2C",
+          "title": "gorsun Premium A66 Kids Headphones with 85dB/94dB Volume Limited, in-line HD Mic, Audio Sharing, Foldable Toddler Headphones, Adjustable, Children Headphones Over-Ear for School Travel, Deep Blue",
+          "rrf_score": 0.025278,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B0BQXLTL62",
+          "title": "FINGERTIME Kids Headphones, Foldable Stereo 3.5mm Wired Headphones, Toddler Headphones with Sharing Function,Volume Limiter 85/94dB, Headphones for Kids/Boy/Girl/Travel/Tablet (Black)",
+          "rrf_score": 0.024652,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B08BJ226DH",
+          "title": "Unicorn Gifts for Girls, Kid Headphones with 85dB Volume Limit, HD Stereo Sound, 3.5mm Audio Jack Adjustable Over Ear Headphone for Children Teens Girls School Birthday Party Xmas",
+          "rrf_score": 0.024411,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B01A4WUMRO",
+          "title": "Chill Headphones for Kids & Adults - Most Comfortable, Durable, Affordable Wired Headphones - Volume Limit for Your Child's Ear Safety with Studio-Quality Sound",
+          "rrf_score": 0.024348,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B09WK14HR7",
+          "title": "Rubussubg Kids Headphones with Microphone, 91dB Safe Volume Limited Headset, Wired Headphones for Kids Teens with Sharing Splitter, Foldable Stereo Headset for School/Tablet/Travel/Kindle",
+          "rrf_score": 0.024322,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B093ZCRTG1",
+          "title": "Adorable Kids Headphones for School Wired Heaphone Volume Limited to 85db with Mic, Suitable for Children/Toddler, 3.5 mm Audio Plug, Safety Material",
+          "rrf_score": 0.023927,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B001UAGQPW",
+          "title": "Maxell 190338 Lightweight & Small Volume Protection 30mm Driver Comfortable Kids Safe Children Headphones with Interchangeable Colors Black",
+          "rrf_score": 0.023575,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B092ZFRKPF",
+          "title": "gorsun Bluetooth Kids Headphones with 85/94dB Volume Limited, Kids Wireless Headsets Over Ear, Toddler Headphones for Children, Wired/Wireless Mode, Bluetooth 5.0, HD Sound, Built-in Microphone-Black",
+          "rrf_score": 0.02279,
+          "relevance": 2
+        },
+        {
+          "rank": 17,
+          "asin": "B07N8397R2",
+          "title": "Snug Play+ Kids Headphones with Volume Limiting for Toddlers (Boys/Girls) - Aqua",
+          "rrf_score": 0.022394,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B07YR475PS",
+          "title": "Kids Headphones Bluetooth Wireless 85db/110db Volume Limit Headset Fit for Aged 3-21 Over-Ear and Build-in Mic Wired & SD Card Mode Headphones for Boys Girls Travel School Phone Pad Tablet PC White",
+          "rrf_score": 0.021806,
+          "relevance": 2
+        },
+        {
+          "rank": 19,
+          "asin": "B08FDNJ2R3",
+          "title": "Kids Headphones Foldable with LED Glowing Cat Ear, On-Ear Headset Safe Wired Kids Headsets 85dB Volume Limited, Food Grade Silicone, 3.5mm Aux Jack, Fox Ear -Inspired Purple Headphones for Children",
+          "rrf_score": 0.021473,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B08BZH1XG7",
+          "title": "BASEMAN Kids Headphones, Wired Headphones for Kids Over Ear Headphones with Microphone, Volume Control Foldable Headset Headphones for Boys Girls Children School Online Study Tablets PC Kindle - Blue",
+          "rrf_score": 0.021355,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tier": 2,
+      "query": "wired headphones for studio recording",
+      "latency_ms": 24.7,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B008D64IG0",
+          "title": "HeiL Sound Pro Set 3 Studio Headphones with Closed Back. High Impedance and Deep Bass Headphones Perfect for Studio Audio, Podcast Audio, Live Sound Audio, and Broadcast",
+          "rrf_score": 0.03009,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B01IIKXH8K",
+          "title": "MASTER & DYNAMIC MH40 Over-Ear Headphones with Wire - Noise Isolating with Mic Recording Studio Headphones with Superior Sound",
+          "rrf_score": 0.026861,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B07JFLPPJX",
+          "title": "Beats by Dr. Dre Pro Wired Headphones - High Performance Professional Studio Over-Ear Headphones - Infinite Black (Renewed)",
+          "rrf_score": 0.024853,
+          "relevance": 1
+        },
+        {
+          "rank": 4,
+          "asin": "B00SC80YFI",
+          "title": "Audio-Technica ATH-M50xDG LIMITED EDITION Professional Studio Monitor Headphones",
+          "rrf_score": 0.021509,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B00XUXQL7A",
+          "title": "Musician's Gear MG900 Studio Headphones",
+          "rrf_score": 0.016667,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B0BN88NRN9",
+          "title": "Wired Headphones,in-Ear Headphones with Microphone, Earbuds Built-in Call Volume and Control Button, Compatible with iPhone 6/6Plus/6S/6SPLUS/Android/iPad/Laptop and Most 3.5mm Jack Devices(2 Pack)",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 7,
+          "asin": "B08128X9M9",
+          "title": "Knox Gear TX-100 Closed-Back Studio Monitor Headphones, Noise-Isolating Headphones for Gaming PC, Over Ear Wired Headphones for Recording & Music Production, Black Headphones, Studio Headphones",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B0B4JCT3QB",
+          "title": "4 Pack Wired Earbuds 3.5mm Ergonomic Noise Isolating in-Ear Headphones Built-in Microphone Compatible with Android Smartphones Laptops MP3",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 9,
+          "asin": "B009B1Y4OM",
+          "title": "Monster DiamondZ Rose Gold On-Ear Headphones, Apple & Universal CT - Rose Gold",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 10,
+          "asin": "B07TTL3HHX",
+          "title": "Wired Bass Earbuds Sport in-Ear Headphone Wired with Micro Phone",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 11,
+          "asin": "B017TAZ3SM",
+          "title": "beyerdynamic DT 770 i Headphones",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B09SFZ4GW6",
+          "title": "Wired Earbuds with Microphone 4 Pack, Wired Earphones with Stereo Noise Blocking, in-Ear Headphones High Sound Quality, Compatible with iPhone and Android Devices, iPod, MP3, Fits All 3.5mm Jack",
+          "rrf_score": 0.015873,
+          "relevance": 0
+        },
+        {
+          "rank": 13,
+          "asin": "B0BHWFTMGF",
+          "title": "Wired Earbuds with Microphone ,In-Ear Headphones, Extra Bass Earbud Headphones,Memory Foam,ergonomic custom earbuds (S/M/L) ,Compatible with iPhone, iPad,Android , Laptop,MP3 and Most 3.5mm Interface",
+          "rrf_score": 0.015625,
+          "relevance": 0
+        },
+        {
+          "rank": 14,
+          "asin": "B00J4F5DRM",
+          "title": "Fostex TX-1 Headphones Silver",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B09Q2XHK86",
+          "title": "Austrian Audio Hi-X60 Professional Closed-Back Over-Ear Headphones",
+          "rrf_score": 0.015152,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B0BDL8G71X",
+          "title": "Wired headphones pc headset usb - computer headset with microphone for laptop noise cancelling headphones 3.5mm& usb jack, with volume & mic mute for Zoom, Skype, Call Center, Home",
+          "rrf_score": 0.015152,
+          "relevance": 0
+        },
+        {
+          "rank": 17,
+          "asin": "B075QT97BG",
+          "title": "beyerdynamic Custom Headset Gear",
+          "rrf_score": 0.014925,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B0744988JV",
+          "title": "Reetec in Ear Headphones Stereo Bass Sports Earbuds RT-S1 Volume Remote Control with Microphone Wired Headphones Earphones (Black)",
+          "rrf_score": 0.014925,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B0C6QRJX93",
+          "title": "2 Packs Apple Wired Headphones Earbuds with Microphone,in-Ear Earphones Volume Control[Apple MFi Certified] Headphones Compatible with iPhone/ipad/Android/Computer and Other 3.5mm Jack Devices",
+          "rrf_score": 0.014706,
+          "relevance": 0
+        },
+        {
+          "rank": 20,
+          "asin": "B091K4WYD1",
+          "title": "OneOdio Over Ear Headphone, Wired Bass Headsets with 50mm Driver, Foldable Lightweight Headphones with Shareport and Mic for Recording Monitoring Podcast Guitar PC TV - (Red)",
+          "rrf_score": 0.014493,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tier": 2,
+      "query": "true wireless earbuds with good bass",
+      "latency_ms": 247.0,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B07L9TBGWD",
+          "title": "Anbes Wireless Earbuds, Bluetooth 5.0 Headphones True Wireless in-Ear Earbuds 18H Playtime Noise Cancelling 3D Stereo Deep Bass with Built-in Mic Volume Control Portable Charging Case",
+          "rrf_score": 0.02753,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B091YH465D",
+          "title": "True Wireless Earbuds Bluetooth 5.0 Headphones in-Ear TWS Mini Headset for Sport Extra Bass Stereo Earphones HD Sound IPX7 Waterproof Noise Cancelling Mic 48 Hours Playtime Black",
+          "rrf_score": 0.027118,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B08CGQX4G9",
+          "title": "JBL Tune 225TWS True Wireless Earbud Headphones - Pure Bass Sound, Bluetooth, 25H Battery, Dual Connect, Native Voice Assistant (Black)",
+          "rrf_score": 0.025356,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B09CCP4FDM",
+          "title": "SUPFINE Bluetooth Earbuds, True Wireless Earbuds Bluetooth 5.2 TWS Bluetooth Headphones with Mics Touch Control Bass Sound in-Ear Earphones for Sports,Home (Purple)",
+          "rrf_score": 0.025,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B07KLLMGSB",
+          "title": "SoundPEATS True Wireless Bluetooth Earbuds in-Ear Stereo Bluetooth Headphones Wireless Earphones (Bluetooth 5.0, Built-in Mic, Stereo Calls, Total 15 Hours Playtime)",
+          "rrf_score": 0.022106,
+          "relevance": 1
+        },
+        {
+          "rank": 6,
+          "asin": "B082VQQKMZ",
+          "title": "JBL TUNE 220TWS - True Wireless in-Ear Headphone - Black",
+          "rrf_score": 0.020423,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B09DB8XK9Y",
+          "title": "Tempo 30 Wireless Earbuds for Small Ears Women and Men, Black Bluetooth Earbuds for Small Ear Canals, Loud Bass Ear Buds Wireless Bluetooth Earbuds for iPhone, Android Earbuds Wireless Bluetooth Mic",
+          "rrf_score": 0.020324,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B07RBC3KNG",
+          "title": "True Wireless Earbuds, Woozik Relay Wireless Headphones, Waterproof Sport TWS Headset, Stereo Earphones with Microphone, Long Playtime for Gym Running and Workouts for iOS Android",
+          "rrf_score": 0.019961,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B09LWGZLFQ",
+          "title": "JBL Tune 115TWS True Wireless in-Ear Headphones Pure Bass Sound, 21H Battery, Bluetooth, Dual Connect, Wireless Calls, Music, Native Voice Assistant (Black)",
+          "rrf_score": 0.019037,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B002YO8WRI",
+          "title": "Sennheiser CX150 Noise Attenuation Earbuds (Discontinued by Manufacturer)",
+          "rrf_score": 0.018615,
+          "relevance": 0
+        },
+        {
+          "rank": 11,
+          "asin": "B08R1LGZYQ",
+          "title": "Wireless Earbuds, Bluetooth 5.1 Earbuds Hi-Fi Stereo Headphones 30H Playtime True Wireless Earbuds IPX6 Waterproof Earphones in-Ear Headphones with Mic and Type C for Working/Travel/Gym",
+          "rrf_score": 0.017946,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B07D96K39F",
+          "title": "Rowkin Ascent Micro True Wireless Earbuds Headphones: 17+ Hours Bluetooth 5 Smallest Earphones & USB-C Charging Case. Deep Bass Sound Headset Mic & Noise Reduction for Android Samsung & iPhone (Black)",
+          "rrf_score": 0.016667,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B07P6MNJMV",
+          "title": "PHILIPS BASS+ SHB3075 Wireless Headphones, up to 12 Hours of Playtime - Matte Black",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 14,
+          "asin": "B00H2W54T6",
+          "title": "The Sharper Image Active Noise Cancelling Earbuds",
+          "rrf_score": 0.016393,
+          "relevance": 1
+        },
+        {
+          "rank": 15,
+          "asin": "B09MF25SCF",
+          "title": "JBL Tune 215TWS True Wireless Earbud Headphones - Pure Bass Sound, Bluetooth, 25H Battery, Dual Connect (Black)",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B08FF6P5KS",
+          "title": "Wireless Gear Bluetooth 5.0 True Wireless Stereo Earbuds with Charging Case, White/Gray",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 17,
+          "asin": "B0B572P5SF",
+          "title": "Ear Buds Wireless Earbuds, Bluetooth Earphones Clear Call with Charging Case, Bluetooth 5.3 Earbuds Deep Bass Built-in Mic, IPX5 Waterproof Headphones, 30 Hrs Compatible with iPhone & Android Black",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B07TTL3HHX",
+          "title": "Wired Bass Earbuds Sport in-Ear Headphone Wired with Micro Phone",
+          "rrf_score": 0.015873,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B0B9XMKD4Y",
+          "title": "True Wireless Bluetooth Headphones with Over Ear Hooks for Jogging, IPX7 Waterproof Workout Earphones, Built in Mic Stereo Sound Earbuds, 24 Hours Playtime Headsets for Running, Gym, Sports-Black",
+          "rrf_score": 0.015625,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B09B72BKP9",
+          "title": "CCA CC4 True Wireless Earbuds Deep Bass Hybrid Dynamic Driver Bluetooth Earbud Touch Control Stereo Earphones Noise Cancelling Sport Headphones with Mic (The Latest Version)",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tier": 3,
+      "query": "noise cancelling headphones under $200 for studying, avoid comfort complaints",
+      "latency_ms": 69.8,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B00WU0PYXG",
+          "title": "Audio-Technica ATH-ANC7B QuietPoint Active Noise-Cancelling Closed-Back Headphones, Wired",
+          "rrf_score": 0.030777,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B0B3LXYHVH",
+          "title": "Active Noise Cancelling Headphones,Wireless Bluetooth Headphones Built-in Mic 40 Hours Playtime Wireless Noise Cancelling Headphone 3D Low Bass Tone Fast Charge for Cellphone/Work/Gym/TravelComputers",
+          "rrf_score": 0.029727,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B0BRZ2BFVK",
+          "title": "E7 Active Noise Cancelling Headphones Bluetooth Headphones Over Ear Wireless Headphones with Microphone Deep Bass, Comfortable Protein Earpads, 30HPlaytime for Travel/Work",
+          "rrf_score": 0.028125,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B09TSVQ1BC",
+          "title": "Noise Cancelling Headphones, USB-C Fast Charge, 45Hrs Wireless Headphones Over Ear, Wireless Headphone with Microphone, Stereo Sound, Foldable Wireless Wired Headset for Woman Girls Travel",
+          "rrf_score": 0.027746,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B0B8N4T9CN",
+          "title": "Active Noise Cancelling Headphones E600Pro, 80Hours Playtime Wireless Headphone with aptX Low Latency, Bluetooth Headphones with Built-in Microphone, Deep Bass Over-Ear Headphones (Black)",
+          "rrf_score": 0.02623,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B09Y5TRV87",
+          "title": "Nearity HP20 Wired Computer Headset, On-Ear Headphones with 2 Built-in Noise Cancelling Microphone USB/Type-C Connection Computer Headphones for Office Home Business PC/Mac/Laptop/Table",
+          "rrf_score": 0.026197,
+          "relevance": 0
+        },
+        {
+          "rank": 7,
+          "asin": "B09TK3MW8Q",
+          "title": "PurelySound E7 Pro Active Noise Cancelling Headphones, Over-Ear Bluetooth Headphones with Mic, Rich Deep Bass, Long Battery Life, Comfortable - Black",
+          "rrf_score": 0.025448,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B08DHXKXW9",
+          "title": "Earbay Bluetooth Phone Headset with Microphone Noise Cancelling, Wireless Headphones with Mic Mute, Call Center PC Headsets for Smartphone Tablet Computer Office Conference",
+          "rrf_score": 0.025307,
+          "relevance": 0
+        },
+        {
+          "rank": 9,
+          "asin": "B09H59HGFH",
+          "title": "Silensys E7 PRO Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Fit, 30H Playtime for TV/Computer/Cellphone, Pink",
+          "rrf_score": 0.025093,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B09GV2PSSP",
+          "title": "Silensys E7 PRO Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Fit, 30H Playtime for TV/Computer/Cellphone, Black",
+          "rrf_score": 0.024348,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B07JNN3LYN",
+          "title": "Wireless Active Noise Cancelling Headphones with Mic,Alteng Hi-Fi 30H Playtime Travel Foldable Over-Ear Stereo Sound Headset,Comfortable Protein Earpads,Non-Sound Leakage for Travel Work TV Computer",
+          "rrf_score": 0.022548,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B0BLG1T9CY",
+          "title": "Soundcore by Anker Space Q45 Adaptive Active Noise Cancelling Headphones, Reduce Noise by Up to 98%, 50H Playtime, App Control, LDAC Hi-Res Wireless Audio, Comfortable Fit, Clear Calls, Bluetooth 5.3",
+          "rrf_score": 0.022167,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B087CPDZXP",
+          "title": "TCL Active Noise Cancelling Wireless Headphones, ONKYO H720NC Over Ear Bluetooth Headphones, Hi-Res Stereo Deep Bass, Built-in Mic, Travel Case, Memory Foam Earcups, 26H Playtime for Home Office",
+          "rrf_score": 0.019833,
+          "relevance": 1
+        },
+        {
+          "rank": 14,
+          "asin": "B01N4ONWV3",
+          "title": "iDeaUSA Active Noise Cancelling Bluetooth Headphones, Wireless Over Ear Headphones with Microphone, HiFi Stereo Sound, Headphones for TV, Running, Sports - Silver",
+          "rrf_score": 0.019567,
+          "relevance": 1
+        },
+        {
+          "rank": 15,
+          "asin": "B09FXN6G3T",
+          "title": "Silensys E7 Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Protein Earpads, 30 Hours Playtime for Travel/Work, Black",
+          "rrf_score": 0.017893,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B075RR2Q1K",
+          "title": "Metal Wired Earbuds with Microphone and Remote Control by Probass - Aluminum in Ear Headphones Earbuds with Remote and Mic for iPhone, Android - Gold Earbuds (Stereo Ear Buds)",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 17,
+          "asin": "B009S6RQHW",
+          "title": "AGPTEK\u00ae Noise Canceling On-Ear Headphones Headset Noise Cancellation Reduction Foldable Comfortable Stereo Acoustic with Case Audio Cable Plug Adaptor",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 18,
+          "asin": "B000BNLIQ6",
+          "title": "Acoustic Research Closed-back Monitor Professional Studio Headphones (Discontinued by Manufacturer)",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B07H2JJT1C",
+          "title": "Grawin Wired Earhook in Ear Jogging Workout Headphones Noise Isolating Over Ear Earbuds",
+          "rrf_score": 0.015385,
+          "relevance": 0
+        },
+        {
+          "rank": 20,
+          "asin": "B0BMG1TPXC",
+          "title": "233621 Shell Noise Cancelling Headphones. Lightweight Over Ear ANC Bluetooth Headphones. Fast Charge, 60 Hours Playtime, Wireless Headphones with Call Noise Reduction for Improved Call Quality (Ice)",
+          "rrf_score": 0.015152,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tier": 3,
+      "query": "wireless earbuds for running under $50, waterproof, good bass",
+      "latency_ms": 79.5,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B0BRL5KJ96",
+          "title": "Runner 60 Wireless Sport Earbuds for Running 80 Hour Long Battery Life Over the Ear Earbuds with EarHooks, Wrap Around Ear Buds Wireless Bluetooth Earbuds with Microphone, Earphones In Ear Headphones",
+          "rrf_score": 0.030214,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B0B5RDD3B2",
+          "title": "Bluetooth Headphones,30 Hours Playtime Wireless Earbuds,Bluetooth 5.0 Sports Earphones with CVC6.0 Sound Isolation Mic,IPX5 Waterproof,Deep Bass Stereo Wireless Headsets for Gym Running",
+          "rrf_score": 0.028219,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B09B76NZSK",
+          "title": "Wireless Earbuds 5.1 Bluetooth Headphones Sport with Two Detachable Earhooks in Ear Wireless Earphones Noise Cancelling Touch Control, 30H Playtime Deep Bass IP7 Waterproof Headset for Running Sport",
+          "rrf_score": 0.026686,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B0B9XMKD4Y",
+          "title": "True Wireless Bluetooth Headphones with Over Ear Hooks for Jogging, IPX7 Waterproof Workout Earphones, Built in Mic Stereo Sound Earbuds, 24 Hours Playtime Headsets for Running, Gym, Sports-Black",
+          "rrf_score": 0.025645,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B09KNFR6XB",
+          "title": "Bluetooth 5.1 Wireless Earbuds RFNAYK Wireless Sports Bluetooth Earphones IPX7 Waterproof in Over Ear Headphones with Earhooks Built-in Mic Headset for iPhone Android Running Outdoor Workout",
+          "rrf_score": 0.025063,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B0B55Z76XM",
+          "title": "comiso Wireless Earbuds, True Wireless in Ear Bluetooth 5.0 with Microphone, Deep Bass, IPX7 Waterproof Loud Voice Sport Earphones with Charging Case for Outdoor Running Gym Workout (All Black)",
+          "rrf_score": 0.024749,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B0BS9SHKCT",
+          "title": "Wireless Earbuds, Bluetooth 5.3 Noise Cancelling Ear Buds with in-Ear Built-in Microphone Deed Bass Headphones,Clear Premium Stereo Earphones IPX6 Waterproof Headset for Sport (Blue)",
+          "rrf_score": 0.023545,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B076P1F1XZ",
+          "title": "Bluetooth Headphones Fitness Wireless Sports Earphones Waterproof Sweatproof Earbuds for Fit Gym Trail Running Workout Yoga Training Noise Cancelling",
+          "rrf_score": 0.022332,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B0C3R2WCKX",
+          "title": "comiso Wireless Earbuds Bluetooth Headphones, True Wireless in Ear Bluetooth 5.1 Earbuds with Microphone, Deep Bass, IPX7 Waterproof Loud Voice Earphones for Sport Outdoor Running Gym Workout(Black)",
+          "rrf_score": 0.021121,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B08M5GKBFR",
+          "title": "Wireless Earbuds Neckband with TF Card Slot,50 Hour Bluetooth Headphones Long Battery Life Earphones Bluetooth Headset Neck Built-in Noise Cancelling Mic Waterproof for Workout,Running,Driving (A4L)",
+          "rrf_score": 0.020335,
+          "relevance": 1
+        },
+        {
+          "rank": 11,
+          "asin": "B099ZFRLL2",
+          "title": "KOSETON True Wireless Earbuds \u2013 Baby Blue Wireless in-Ear Headphones for Running and Sport \u2013 Bluetooth Earbuds with a Comfortable, Secure Fit, 30 Hour Battery, Great Sound",
+          "rrf_score": 0.018713,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B0BQDDNYWB",
+          "title": "Wireless Earbuds, Bluetooth 5.0 Earbuds, Earphones Wireless Bluetooth with Charging case, Ear Bud & in-Ear Headphones IPX6 Waterproof, Wireless Ear Buds with Mic Auto Pairing for iPhone/Samsung",
+          "rrf_score": 0.017749,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B07WDQ499P",
+          "title": "Wireless Headphones,Bluetooth Headphones Bluetooth 5.0, IPX5 Waterproof Built-in Mic 1000min Playtime,Bass Hi-Fi Stereo, Magnetic Connection, for Sports Running",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 14,
+          "asin": "B0BYZ6G769",
+          "title": "Ltinist Wireless Earbud, Bluetooth 5.3 Headphones Pure Bass Sound with Earhooks, 60H Battery Over Ear Headphones with Dual-LED Display, IP7 Waterproof Earphones Built-in Microphone for Running Sports",
+          "rrf_score": 0.016667,
+          "relevance": 1
+        },
+        {
+          "rank": 15,
+          "asin": "B0B572P5SF",
+          "title": "Ear Buds Wireless Earbuds, Bluetooth Earphones Clear Call with Charging Case, Bluetooth 5.3 Earbuds Deep Bass Built-in Mic, IPX5 Waterproof Headphones, 30 Hrs Compatible with iPhone & Android Black",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B0B3QWTT2L",
+          "title": "Wireless Earbuds Bluetooth Headphones 60Hrs Playback Clear Call Wireless Charging Case with LED Power Display Built-in Mic Stereo Headset Sweatproof occiam Waterproof Earphones for Workout White",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 17,
+          "asin": "B07D2B1WYL",
+          "title": "Bluetooth Headphones, Kesbin Wireless Earbuds with Microphone - Waterproof Hi-Fi Deep Bass HD Stereo Sweatproof in Earphones for Running Workout 8 Hour Battery Noise Cancelling (Standard)",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 18,
+          "asin": "B09FZBG3PV",
+          "title": "Wireless Earbud, Bluetooth 5.1 Headphones Sport for Android iOS, Earphones with Earhooks Noise Cancelling Mic in Ear HD Stereo Bass, 35H Playtime IP7 Waterproof Headset for Workout Running Gym Black",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 19,
+          "asin": "B07R32PX41",
+          "title": "Wireless Headphones Bluetooth 5.0 Earphones, 72 Hours Playtime HD Stereo Bass Sound Built-in Microphone IPX7 Waterproof Bluetooth in-Ear Earbuds with 2200mAh Charging Case",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B0B3MHZ7X4",
+          "title": "D DOMISOL Bone Conduction Headphones Wireless, Open-Ear Bluetooth Sport Earphones with Mic, Waterproof Sweat Resistant Headset for Running Cycling Hiking Gym Workouts-Black",
+          "rrf_score": 0.015625,
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tier": 3,
+      "query": "over ear headphones under $150, long battery, comfortable for glasses wearers",
+      "latency_ms": 24.4,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B0BR2KZ58Q",
+          "title": "Samson SR350 Over Ear Stereo Headphones, (SASR350) ,Black",
+          "rrf_score": 0.028205,
+          "relevance": 1
+        },
+        {
+          "rank": 2,
+          "asin": "B09KVHV2MF",
+          "title": "Cabor Over Ear Wireless Headphones Behind The Head \u2013 Soft Wrap Around Headphones with Microphone, 20-Hour Battery Life, Foldable for Workout, Office, Walking, and Running, Black",
+          "rrf_score": 0.027497,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B073X66GVL",
+          "title": "GRAPHICS & MORE Hip Llama with Glasses Novelty Travel Portable On-Ear Foldable Headphones",
+          "rrf_score": 0.027253,
+          "relevance": 0
+        },
+        {
+          "rank": 4,
+          "asin": "B07KF4DM6X",
+          "title": "Wireless Headphones Non Ear Plug, 2018 New True Wireless Earbuds Noise Cancelling Handsfree Headset with Microphone for iPhone and Android Smart Phones (Yellow)",
+          "rrf_score": 0.024901,
+          "relevance": 0
+        },
+        {
+          "rank": 5,
+          "asin": "B07NRYDDKZ",
+          "title": "Active Noise Cancelling Headphones with Microphone and Airplane Adapter, Alteng J19 Folding and Lightweight Travel Headsets, Hi-Fi Deep Bass Wired Headphones with Carrying Case - Black",
+          "rrf_score": 0.01893,
+          "relevance": 1
+        },
+        {
+          "rank": 6,
+          "asin": "B09DTWDPCD",
+          "title": "MOING Bluetooth Bone Conduction Headphones, Open Ear Wireless Sport Headphones Built-in Mic, Sweat Resistant Headset with 8 Hours Playtime for Running, Cycling and Workout (Black)",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 7,
+          "asin": "B0732Y8M6Q",
+          "title": "Sport Headphones with Microphone, Running Exercise Stereo Earbuds, in Ear Earphones 3.5mm Jack Earphones Neckband Workout Headsets for Running Gym Jogging Etc(Blue)",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        },
+        {
+          "rank": 8,
+          "asin": "B09CGRCDG5",
+          "title": "Loluka Smart Wireless Bluetooth Glasses Headphone Audio Sunglasses Open Ear Headphones Music Hands-Free Calling Speaker for Men Women",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 9,
+          "asin": "B07PJPKZ7P",
+          "title": "Over Ear Wired Headphones, BYZ Professional HiFi Stereo Headpset, Deep Bass, Built-in Mic, Foldable/Soft Earmuffs for Studio Monitoring, DJ and Home Entertainment, Black",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B07L76B8L6",
+          "title": "Bluetooth Headphones Over Ear, Hi-Fi Stereo Foldable On-Ear Headset with Microphone, APP to Control Headphones, Soft Earmuffs Support SD Card FM Radio Wired and Wireless Headset for Kids Adults, Black",
+          "rrf_score": 0.016129,
+          "relevance": 1
+        },
+        {
+          "rank": 11,
+          "asin": "B09Y58C278",
+          "title": "Open Ear Air Conduction Bluetooth Headphones, AOCOAKW Ear Hook Wireless Sports Earphones with Mic Lightweight 8 Hrs Playtime for Workouts, Running, Cycling, Gyming",
+          "rrf_score": 0.015873,
+          "relevance": 0
+        },
+        {
+          "rank": 12,
+          "asin": "B00ZWPTN4M",
+          "title": "OldShark Foldable Bluetooth Over-Ear Headphone for Kids, On-Ear Wireless Headset for Adults Built-in Mic with 3.5mm Audio Cable Black",
+          "rrf_score": 0.015873,
+          "relevance": 1
+        },
+        {
+          "rank": 13,
+          "asin": "B0C6QK3VKY",
+          "title": "Wireless Ear Clip Bone Conduction Headphones Headset Clip On Open Ear Earbuds Bone Conduction Earbuds Head Set Workout Cycling Running Work Headphones Bone Conducting Induction Earphones",
+          "rrf_score": 0.015625,
+          "relevance": 0
+        },
+        {
+          "rank": 14,
+          "asin": "B09HSL3QRG",
+          "title": "OYEALEX Active Noise Cancelling Over Ear Headphone Bluetooth Wireless Headphones with Microphone Deep Bass Foldable Comfortable Headphones for Online Class, Home Office, PC/Cell Phones/Game Orange",
+          "rrf_score": 0.015385,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B095PR8KLG",
+          "title": "TOKANI Open Ear Headphones, Bluetooth Air Conduction Headphones with Mic and Volume Control Support IP67 Waterproof, 10-Hour Battery Life,30ft Connection for Cycling, Sports Driving,Wireless Headset",
+          "rrf_score": 0.015152,
+          "relevance": 0
+        },
+        {
+          "rank": 16,
+          "asin": "B097Y586X3",
+          "title": "ZTAC\u3011ZTactical Comta II TacticalHeadset (Z041) + U94 zPTT Kenwoo Push-to-Talk (Z113KEN) Noise Reduction Headphones Set",
+          "rrf_score": 0.014925,
+          "relevance": 0
+        },
+        {
+          "rank": 17,
+          "asin": "B09JC8V5VN",
+          "title": "UNOSOUNDS On Ear Headphones, Wireless and Bluetooth, Noise Reducing, Comfortable Design, Built in Mic and Wired Mode for Mobile, PC & TV, Includes 3.5mm Aux Cable and USB Charger (Black)",
+          "rrf_score": 0.014925,
+          "relevance": 1
+        },
+        {
+          "rank": 18,
+          "asin": "B09VNXS8K8",
+          "title": "WANFEI Bone Conduction Headphones, Running Bluetooth Headphones, Air Open Ear Wireless Earphones with Mic for Sports Hiking Running Driving Cycling Fitness Workouts Walking",
+          "rrf_score": 0.014706,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B07929XGY3",
+          "title": "Active Noise Cancelling Headphones Wired with Mic, 50h Playing Hi-fi Stereo Over Ear Headsets Light Weight, Foldable Travel Earphones for iPhone/Android/PC, Free Carry Case/Black from INSERMORE",
+          "rrf_score": 0.014706,
+          "relevance": 1
+        },
+        {
+          "rank": 20,
+          "asin": "B0BZ4K5MXC",
+          "title": "Bluetooth Headset Wireless Headset with Microphone Noise Canceling & Charging Stand, Superior Voice Pickup, AI-Enhanced Calls, Wireless Headphones with USB Dongle for Work Computer PC Call Center",
+          "rrf_score": 0.014493,
+          "relevance": 0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tier": 3,
+      "query": "headphones for sleeping, lightweight, comfortable, under $50",
+      "latency_ms": 264.0,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B08XZ5RC22",
+          "title": "Sleep Headphones Bluetooth Sleeping Headband Soft Elastic Comfortable Sleeping Headphones Music Headband Great for Side Sleepers Running Yoga Insomnia Travel Gift for Men Women (Grey)",
+          "rrf_score": 0.031818,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B08XZ75N44",
+          "title": "Sleep Headphones Bluetooth Sleeping Headband Soft Elastic Comfortable Sleeping Headphones Music Headband Great for Side Sleepers Running Yoga Insomnia Travel Gift for Men Women (Black)",
+          "rrf_score": 0.031319,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B00JYFT4PO",
+          "title": "SleepPhones AcousticSheep Classic | Corded Headphones for Sleep, Travel, and More | The Original and Most Comfortable Headphones for Sleeping | Soft Gray - Fleece Fabric (Size M)",
+          "rrf_score": 0.029762,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B0982SDRCF",
+          "title": "MMUSS Sleep Headphones Headband with Ultra Thin Stereo Speakers Control Button.Perfect for Sleeping,Sports,Air Travel,Meditation and Relaxation Black",
+          "rrf_score": 0.029487,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B08FRQFYPD",
+          "title": "New SleepPhones Wireless Sleep Headphones by AcousticSheep | Bluetooth Headband Headphones for Sleeping & Travel | Original and Most Comfortable Sleeping Headphones (Large, Royal Blue (Breeze))",
+          "rrf_score": 0.029206,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B08YKHW429",
+          "title": "CozyPhones Sleep Headphones - Over Ear Headphones from Ultra Thin Cool Mesh Wired for Side Sleepers, Meditation, Running, Laptop, and Phone - Purple Lycra",
+          "rrf_score": 0.027118,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B089CJ9BJV",
+          "title": "Sleep Headphones Bluetooth Headband - Sleeping Headphones Gifts for Men Women Soft Headphones for Sleeping, Sports Headbands with Ultra-Thin HiFi Stereo Speakers, Long Time Play Sleep Earbuds",
+          "rrf_score": 0.026743,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B0BV1RQGJG",
+          "title": "MMUSS Sleep Headphones Wireless 5.2 Sports Headband with Ultra Thin Stereo Speakers,Wireless Sleeping Music Headphones Sleep Eye Mask Earbuds for Side Sleepers Running Meditation Yoga (Dark Grey 24)",
+          "rrf_score": 0.026334,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B0B1L2T7F1",
+          "title": "TOPOINT Sleep Headphones, Bluetooth Headband Headphones Music Sleep Headband Wireless Earphones Sleeping Headphones for Side Sleepers Women Girls Adults Sleeping Headband",
+          "rrf_score": 0.026042,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B098FCG99C",
+          "title": "Sleeping Earbuds, Smallest Sleepbuds Comfortable in-Ear Headphones with Mic Noise Reduction Earbuds for Sleeping on Side Snoring Yoga",
+          "rrf_score": 0.025019,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B0B4K1RD3X",
+          "title": "MMUSS Sleep Headphones Stereo Headband with Ultra Thin Speakers.Perfect for Side Sleeper,Sports,Air Travel,Meditation and Relaxation (Black3)",
+          "rrf_score": 0.024246,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B08YM1RGZP",
+          "title": "Fleece Sleep Headphones - Over Ear Headphones from CozyPhones | Ultra Thin Earphones for Side Sleepers, Meditation, Running, Laptop, and Phone - Gray",
+          "rrf_score": 0.0241,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B0BKSML7WW",
+          "title": "ASIILOVI Headband Headphones Sleep Headphones, Bluetooth Headband with One Key Operation HD Speakers and Mic Perfect for Sleep Jogging Yoga Calling Daily Wear, Gift Ideas-Unisex",
+          "rrf_score": 0.023857,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B08YLDQ45Y",
+          "title": "CozyPhones Sleep Headphones - Over Ear Headphones from Ultra Thin Cool Mesh Wired for Side Sleepers, Meditation, Running, Laptop, and Phone - Pink Lycra",
+          "rrf_score": 0.0236,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B0B9SMMXC5",
+          "title": "Bluetooth Sleep Headphones Mini True Wireless Noise Reduction Sleeping Earbuds,Comfortable Invisible Earphones Sleep Headsets for Side Sleeper, Workout",
+          "rrf_score": 0.023559,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B0BH3GWBFF",
+          "title": "Sleep Headphones Bluetooth Headband Wireless - Upgraded Ergonomic ASMR Headphone Cool Gadget, Soft Sleeping Mask Music Sport Headband, Sleep Headphones Gifts for Men Women Side Sleeper (Gray)",
+          "rrf_score": 0.023513,
+          "relevance": 2
+        },
+        {
+          "rank": 17,
+          "asin": "B09ZTTCTKB",
+          "title": "Sleep Headphones Bluetooth Headband, Wireless Music Headband Headphones Soft Sleeping Headphones Sleep Mask with Speakers and Microphone Perfect for Sleeping, Running, Workout, Jogging, Yoga, Insomnia",
+          "rrf_score": 0.022856,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B09CTFJ9NH",
+          "title": "Fulext Sleep Headphones Bluetooth Headband, Upgrage Soft Sleeping Wireless Music Sport Headbands, Long Time Play Sleeping Headsets with Built in Speakers Perfect for Workout, Running, Yoga",
+          "rrf_score": 0.02279,
+          "relevance": 2
+        },
+        {
+          "rank": 19,
+          "asin": "B07MJYVQGS",
+          "title": "MMUSS Sleep Headphones Eye Mask for Sleeping with Ultra-Thin HD Stereo Speakers & Travel Bag Perfect for Insomnia, Side Sleepers, Nap, Snoring, Air Travel, Meditation & Relaxation (Grey)",
+          "rrf_score": 0.022773,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B0BMPZC3RQ",
+          "title": "MIni Invisible Sleep Earbuds Smallest Lightest Tiny Noise Cancelling Ear buds for Sleeping Quiet-Comfort Sleepbuds Wireless Bluetooth 5.3 Hidden Headphones for Side Sleepers / Work Small Earplugs",
+          "rrf_score": 0.022592,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tier": 3,
+      "query": "studio headphones flat frequency response under $200",
+      "latency_ms": 13.0,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B000EEHM1W",
+          "title": "Yamaha RH3C Noise Reducing Headphones",
+          "rrf_score": 0.029958,
+          "relevance": 1
+        },
+        {
+          "rank": 2,
+          "asin": "B000BNLIQ6",
+          "title": "Acoustic Research Closed-back Monitor Professional Studio Headphones (Discontinued by Manufacturer)",
+          "rrf_score": 0.02803,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B00GBTUGVM",
+          "title": "Sony MDRZX100 ZX Series Stereo Headphones (3 Pack, Black)",
+          "rrf_score": 0.027912,
+          "relevance": 0
+        },
+        {
+          "rank": 4,
+          "asin": "B00SC80YFI",
+          "title": "Audio-Technica ATH-M50xDG LIMITED EDITION Professional Studio Monitor Headphones",
+          "rrf_score": 0.026614,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B01F2O1KCK",
+          "title": "Amazon Basics In-Ear Headphones with Flat Cable and Universal Mic - Rose Gold",
+          "rrf_score": 0.024706,
+          "relevance": 0
+        },
+        {
+          "rank": 6,
+          "asin": "B00GMM103Q",
+          "title": "Musical Fidelity MF100 Over-Ear Headphones",
+          "rrf_score": 0.02408,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B000ETG10K",
+          "title": "JVC Lightweight Headphone with Volume Control (Silver)",
+          "rrf_score": 0.023234,
+          "relevance": 0
+        },
+        {
+          "rank": 8,
+          "asin": "B07Q59SBZ7",
+          "title": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones (Black) with Carrying Case, 6Ave Cleaning Kit",
+          "rrf_score": 0.022424,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B07GVFP1LB",
+          "title": "Roland RH-300 Stereo Headphones",
+          "rrf_score": 0.016667,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B00XUXQL7A",
+          "title": "Musician's Gear MG900 Studio Headphones",
+          "rrf_score": 0.016393,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B06XJBM1NF",
+          "title": "Sennheiser HD1 In-Ear Headphones (iOS version) - Black Red (Discontinued by Manufacturer)",
+          "rrf_score": 0.016393,
+          "relevance": 0
+        },
+        {
+          "rank": 12,
+          "asin": "B00YC9N4VW",
+          "title": "CAD Audio Studio Headphones, White (MH210W)",
+          "rrf_score": 0.016129,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B00HXTHFW2",
+          "title": "Panasonic RP-HJE120 ErgoFit In-Ear Headphones Stereo Earbuds (2-Pack, Silver)",
+          "rrf_score": 0.016129,
+          "relevance": 0
+        },
+        {
+          "rank": 14,
+          "asin": "B07V6NFBZ7",
+          "title": "beyerdynamic DT 880 Pro Over-Ear Studio Headphone",
+          "rrf_score": 0.015873,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B008D64IG0",
+          "title": "HeiL Sound Pro Set 3 Studio Headphones with Closed Back. High Impedance and Deep Bass Headphones Perfect for Studio Audio, Podcast Audio, Live Sound Audio, and Broadcast",
+          "rrf_score": 0.015625,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B005433INO",
+          "title": "Skullcandy Uprock (Blue) (Discontinued by Manufacturer)",
+          "rrf_score": 0.015385,
+          "relevance": 0
+        },
+        {
+          "rank": 17,
+          "asin": "B00U18GOHE",
+          "title": "Sound Intone Hd680 Lightweight Headphones with Microphone for Iphone and Android Devices (Orange)",
+          "rrf_score": 0.015385,
+          "relevance": 0
+        },
+        {
+          "rank": 18,
+          "asin": "B009LOJCY6",
+          "title": "Panasonic RP-HX650-K DJ Style Monitor Headphones, Black (Discontinued by Manufacturer)",
+          "rrf_score": 0.015152,
+          "relevance": 0
+        },
+        {
+          "rank": 19,
+          "asin": "B0BJ4VTSLC",
+          "title": "Cyber Acoustics Stereo Headset, headphone with microphone, great for K12 School Classroom and Education (AC-204), Gold",
+          "rrf_score": 0.014925,
+          "relevance": 0
+        },
+        {
+          "rank": 20,
+          "asin": "B00J4F5DRM",
+          "title": "Fostex TX-1 Headphones Silver",
+          "rrf_score": 0.014706,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tier": 3,
+      "query": "kids headphones durable under $30, volume limit, foldable",
+      "latency_ms": 262.1,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B083Z7JBP3",
+          "title": "Kids Headphones Children Girls Boys Teens Volume Limiting Foldable and Durable Headphone Headband for School, Home and Travel (Wathet)",
+          "rrf_score": 0.028295,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B083YR1HZG",
+          "title": "Kids Headphones Children Girls Boys Teens Volume Limiting Foldable and Durable Headphone Headband for School, Home and Travel (Pink)",
+          "rrf_score": 0.028158,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B0BD8DTFC7",
+          "title": "Kids Headphones, 94dB Volume Limit Wired Headphone for Kids, Foldable Lightweight Toddler Headphone Over Ear for School Airplane Travel, Soft Earmuff, 3.5mm Wired Headset for iPad Chromebook Girls Boy",
+          "rrf_score": 0.027778,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B07GLJMZN8",
+          "title": "iClever Kids Headphones with Microphone for School -Shareport HS15 Stereo 3.5mm Jack Wired Headset with Volume Limiter 94dB, Foldable Headphones for Children/Teens/Boys/Girls/Airplane/iPad/Tablet",
+          "rrf_score": 0.025829,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B09T947RFS",
+          "title": "Kids Headphones Over Ear with Microphone for Boys Girls Teens Children, Wired Headsets with Volume Limited 85dB/ 94dB, HD Sounds, Sharing Function for iPad Tablet PC Cellphone Chromebook\u2026",
+          "rrf_score": 0.025123,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B08GY8C5N7",
+          "title": "Kids Headphones,LOBKIN Headphones for Kids Girls Toddler,Unicorns Cat Ear Over-Ear/On-Ear Wired Headphones,Adjustable Gaming Headset for Ipad/School/Tablet/Laptop,Great Gifts for Girls(Dark Purple)",
+          "rrf_score": 0.024802,
+          "relevance": 1
+        },
+        {
+          "rank": 7,
+          "asin": "B09WK14HR7",
+          "title": "Rubussubg Kids Headphones with Microphone, 91dB Safe Volume Limited Headset, Wired Headphones for Kids Teens with Sharing Splitter, Foldable Stereo Headset for School/Tablet/Travel/Kindle",
+          "rrf_score": 0.024691,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B0B58RXGWZ",
+          "title": "Kids Headphones with Mic, Wired On-Ear Child Headset for Kids Gifts, HD Sound Sharing Function and 85dB Volume Limited Hearing Protection for Boys/Girls in Home/Travel/Virtual Schooling (Pink)",
+          "rrf_score": 0.024645,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B07XL85YFY",
+          "title": "Kids Wireless Bluetooth headphones Volume Limited 85db Stereo Sound Over-Ear Foldable Lightweight Children headphones with Mic SD Card Slot up to 6-8 hours play time for Boys Girls Adults (Green)",
+          "rrf_score": 0.024201,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B09Q8K6WTW",
+          "title": "awatrue Kids Headphones with Microphones Volume Limit 85/94dB Toddler Headset 3.5mm Jack Wired Adjustable Headband Foldable for Girls Boys Children Teens Pad Smartphones School Airplane Travel Tablet",
+          "rrf_score": 0.024108,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B09NPLXG3W",
+          "title": "Kids Headphones, Wired Stereo Kids Headphones with Microphone, 85/94dB Volume Limit, Audio Sharing 3.5mm Headphone with Enlarged Earcups, Foldable Over-Ear Headset for Study, Travel, School(Blue)",
+          "rrf_score": 0.023775,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B08BZH1XG7",
+          "title": "BASEMAN Kids Headphones, Wired Headphones for Kids Over Ear Headphones with Microphone, Volume Control Foldable Headset Headphones for Boys Girls Children School Online Study Tablets PC Kindle - Blue",
+          "rrf_score": 0.023718,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B08FDNJ2R3",
+          "title": "Kids Headphones Foldable with LED Glowing Cat Ear, On-Ear Headset Safe Wired Kids Headsets 85dB Volume Limited, Food Grade Silicone, 3.5mm Aux Jack, Fox Ear -Inspired Purple Headphones for Children",
+          "rrf_score": 0.02273,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B09NKY5Y1N",
+          "title": "Flavocal Kids Headphones, Childrens Headphones with Volume Limited, Adjustable, Foldable Over-Ear Headphones for Girls Kids Children Teens Travel School Online Learning Tablet, Pink",
+          "rrf_score": 0.021505,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B098Q9PPVC",
+          "title": "okcsc B2 Kids Cartoon Headphones with Mic, 85dB Safe Volume Limited On-Ear Headset for Kids Girls Boys, Foldable Adjustable 3.5mm Jack Stereo Wired Headset for Cellphones/Tablet/School/Travel Mint",
+          "rrf_score": 0.02142,
+          "relevance": 2
+        },
+        {
+          "rank": 16,
+          "asin": "B0B771XWX9",
+          "title": "Flavocal Kids Headphones for School, Headphones for Kids with Microphone, Adjustable & Foldable, Wired Kids Headphones for Children Teens Travel School Online Learning Tablet, Green",
+          "rrf_score": 0.021152,
+          "relevance": 2
+        },
+        {
+          "rank": 17,
+          "asin": "B07F6XZQP1",
+          "title": "MENEEA Kids Headphones, Wired Adjustable Foldable Headsets with Microphone, Volume Control and 85dB Volume Limited Hearing Protection for Fire 7/HD8/HD10 Kids Edition/Nintendo Switch/PS4",
+          "rrf_score": 0.020793,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B0C5R6LYKG",
+          "title": "SIMOLIO Durable Kids Headphone with Microphone, Safe 75dB,85dB,94dB Volume Limit, Audio Share Function Child Headphone with 3.5mm Plug for Girls/Boys/Tablet/iPad/Laptop, (SM-903G)",
+          "rrf_score": 0.01996,
+          "relevance": 2
+        },
+        {
+          "rank": 19,
+          "asin": "B001UAGQPW",
+          "title": "Maxell 190338 Lightweight & Small Volume Protection 30mm Driver Comfortable Kids Safe Children Headphones with Interchangeable Colors Black",
+          "rrf_score": 0.019719,
+          "relevance": 2
+        },
+        {
+          "rank": 20,
+          "asin": "B09BQWGPX4",
+          "title": "gorsun Bluetooth Headphones for Kids with Volume Limiter 85/95dB, Foldable Lightweight Safe Toddler Headphones for Boys&Girls, Kids Headphones with Mic for Online Learning/School/Travel",
+          "rrf_score": 0.018605,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tier": 3,
+      "query": "gaming headset with good microphone under $100, comfortable for long sessions",
+      "latency_ms": 13.4,
+      "results": [
+        {
+          "rank": 1,
+          "asin": "B00FHSI1DS",
+          "title": "SADES SA-708 Zombie Version Stereo Headphone Computer Gaming Headset Microphone",
+          "rrf_score": 0.031592,
+          "relevance": 2
+        },
+        {
+          "rank": 2,
+          "asin": "B01MSW3Z3V",
+          "title": "TECKNET USB Gaming Headset, Wired 7.1 Channel Surround Sound USB PC Computer Gaming Headset Over Ear Headphones with Microphone, Volume Control and LED Light",
+          "rrf_score": 0.030092,
+          "relevance": 2
+        },
+        {
+          "rank": 3,
+          "asin": "B003DA4D2U",
+          "title": "PECHAM Gaming Headset with Mic for Xbox One, PS4,Nintendo Switch, PC - Surround Sound, Noise Reduction Game Earphone - Easy Volume Control - 3.5MM Jack for Smart phone, Laptops, computer (Black)",
+          "rrf_score": 0.02879,
+          "relevance": 2
+        },
+        {
+          "rank": 4,
+          "asin": "B00BSR0SLK",
+          "title": "CORSAIR Raptor H5 Gaming Headset (CA-9011116-NA)",
+          "rrf_score": 0.028219,
+          "relevance": 2
+        },
+        {
+          "rank": 5,
+          "asin": "B0BXQ9Y15K",
+          "title": "JBL Quantum 100 - Wired Over-Ear Gaming Headphones - Blue",
+          "rrf_score": 0.02781,
+          "relevance": 2
+        },
+        {
+          "rank": 6,
+          "asin": "B08XMXF3YY",
+          "title": "JBL Quantum 200 - Wired Over-Ear Gaming Headphones - Black (Renewed)",
+          "rrf_score": 0.026879,
+          "relevance": 2
+        },
+        {
+          "rank": 7,
+          "asin": "B01DNCFM72",
+          "title": "Ailihen K6 Headset with Microphone Over Ear Headphones for Computer PC Laptop with in-Line Volume Control(Black/Blue)",
+          "rrf_score": 0.026495,
+          "relevance": 2
+        },
+        {
+          "rank": 8,
+          "asin": "B08HMN9KLM",
+          "title": "Karvipark H-10 Gaming Headset for Xbox One/PS4/PC/Nintendo Switch|Noise Cancelling,Bass Surround Sound,Over Ear,3.5mm Stereo Wired Headphones with Mic for Clear Chat (Renewed)",
+          "rrf_score": 0.025654,
+          "relevance": 2
+        },
+        {
+          "rank": 9,
+          "asin": "B09P9JV5MY",
+          "title": "SOSISU Gaming Headset with Demon Horns, Ergonomic Wired Headphones Compatible with PS4, PS5, Xbox One(Adapter Not Included), PC, Mobile Phone with RGB Backlight, Surround Sound & Removable Microphone",
+          "rrf_score": 0.025479,
+          "relevance": 2
+        },
+        {
+          "rank": 10,
+          "asin": "B07TQM82NP",
+          "title": "iLive Gaming Headphones, Adjustable Headband, 7.6 x 3.43 x 7.9 Inches, Black/Blue (IAHG49B)",
+          "rrf_score": 0.025388,
+          "relevance": 2
+        },
+        {
+          "rank": 11,
+          "asin": "B07M9QM5CL",
+          "title": "Meetion Gaming Headset with Sound Blaster and Omni-Directional Microphone, Adjustable Size, Noise-Canceling Mic, Gold-Plating USB",
+          "rrf_score": 0.025286,
+          "relevance": 2
+        },
+        {
+          "rank": 12,
+          "asin": "B015SQRITQ",
+          "title": "Megadream Over-Ear Stereo Gaming Headphone, 3.5mm Gaming Headset Noise Cancelling with Microphone for Xbox One/Xbox one S PS4 / PS4 Pro / PS4 Slim PC Notebook Mac Laptop Tablet Phones",
+          "rrf_score": 0.024554,
+          "relevance": 2
+        },
+        {
+          "rank": 13,
+          "asin": "B078XR1TZY",
+          "title": "Gaming Headset for PS4 Xbox One PC, Over Ear Headphones, Noise Cancelling Mic, Stereo Bass Surround, LED Lights, Soft Memory Earmuffs for Laptop Mac-Black",
+          "rrf_score": 0.024405,
+          "relevance": 2
+        },
+        {
+          "rank": 14,
+          "asin": "B00VWX3U3I",
+          "title": "VCOM Attacker Computer Headphones with Microphone for PC Gaming Headset with Adjustable Microphone Works with Gaming Laptops Desktops Mic Headset for Skype with Volume Control-Blue",
+          "rrf_score": 0.024052,
+          "relevance": 2
+        },
+        {
+          "rank": 15,
+          "asin": "B07FDTY5RN",
+          "title": "Cehensy Gaming Headset Over Ear Headphone Stereo Surround Earpiece Noise Isolation Earphones with Mic for PS4, One, Switch/3DS/New 3DSII, Laptop, Computer, Tablet, iPad, Phones etc",
+          "rrf_score": 0.02374,
+          "relevance": 1
+        },
+        {
+          "rank": 16,
+          "asin": "B09LNYRXNB",
+          "title": "Logitech G PRO X Wireless Lightspeed Gaming Headset, Blue VO!CE Mic Filter Tech, 50 mm PRO-G Drivers, DTS Headphone:X 2.0 Surround Sound, Memory Foam, 20+ Hour Battery Life - Black",
+          "rrf_score": 0.022559,
+          "relevance": 2
+        },
+        {
+          "rank": 17,
+          "asin": "B087JQQWGC",
+          "title": "Cdycam Gaming Headset for PS4, PC, Xbox One Controller, Wired Gaming Chat Headphones with 7.1 Surround Sound, Noise-Cancellation Microphone, LED Blue Light Gaming Headset (RED)",
+          "rrf_score": 0.022045,
+          "relevance": 2
+        },
+        {
+          "rank": 18,
+          "asin": "B097T8QZ72",
+          "title": "zime Ranger Over The Ear Headphones Wireless Bluetooth, Multi-Platform Wired & Wireless Gaming Headset with Microphone, Ultra Low Latency Bluetooth Headphones for Travel Office Home Black",
+          "rrf_score": 0.018448,
+          "relevance": 1
+        },
+        {
+          "rank": 19,
+          "asin": "B000F00104",
+          "title": "Plantronics .Audio 450 Audio 450 Ultimate Performance On-The-Go Headset",
+          "rrf_score": 0.017095,
+          "relevance": 1
+        },
+        {
+          "rank": 20,
+          "asin": "B004DR4HVE",
+          "title": "CineVibe Rumble-Feedback CINEVIBE/WHT/UBW/EU-VERSI USB Gaming Headset (White)",
+          "rrf_score": 0.016667,
+          "relevance": 0
+        }
+      ]
+    }
+  ]
+}
